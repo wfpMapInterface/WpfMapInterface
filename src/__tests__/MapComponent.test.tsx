@@ -3,6 +3,7 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import MapComponent from '../components/MapComponent';
 import '@testing-library/jest-dom/extend-expect';
+import fetch from 'node-fetch';
 
 describe('MapComponent', () => {
   test('renders map with default viewport', () => {
