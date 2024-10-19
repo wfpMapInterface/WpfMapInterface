@@ -1,0 +1,3031 @@
+{
+    "statusCode": "200",
+    "body": {
+        "countries": [
+            {
+                "country": {
+                    "id": 1,
+                    "name": "Afghanistan",
+                    "iso3": "AFG",
+                    "iso2": "AF"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 8,
+                    "name": "Angola",
+                    "iso3": "AGO",
+                    "iso2": "AO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 7670735,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 7670735,
+                            "prevalenceDry": 0.225,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.225
+                        },
+                        "ndvi": {
+                            "peopleDry": 3282968,
+                            "peopleAnomaly": 3282968,
+                            "prevalenceDry": 0.0963,
+                            "prevalenceAnomaly": 0.0963
+                        },
+                        "overall": {
+                            "peopleDry": 10953703,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 10953703,
+                            "prevalenceDry": 0.3213,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3213
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 13,
+                    "name": "Armenia",
+                    "iso3": "ARM",
+                    "iso2": "AM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 2951777,
+                            "peopleAnomaly": 2951777,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 1,
+                            "prevalenceAnomaly": 1
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 2951777,
+                            "peopleAnomaly": 2951777,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 1,
+                            "prevalenceAnomaly": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 23,
+                    "name": "Bangladesh",
+                    "iso3": "BGD",
+                    "iso2": "BD"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 55542177,
+                            "peopleAnomaly": 55542177,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.3442,
+                            "prevalenceAnomaly": 0.3442
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 55542177,
+                            "peopleAnomaly": 55542177,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.3442,
+                            "prevalenceAnomaly": 0.3442
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 29,
+                    "name": "Benin",
+                    "iso3": "BEN",
+                    "iso2": "BJ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 7349199,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 7349199,
+                            "prevalenceDry": 0.6399,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.6399
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 7349199,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 7349199,
+                            "prevalenceDry": 0.6399,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.6399
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 31,
+                    "name": "Bhutan",
+                    "iso3": "BTN",
+                    "iso2": "BT"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 431840,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 431840,
+                            "prevalenceDry": 0.5724,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.5724
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 431840,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 431840,
+                            "prevalenceDry": 0.5724,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.5724
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 33,
+                    "name": "Bolivia",
+                    "iso3": "BOL",
+                    "iso2": "BO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 9274523,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 9274523,
+                            "prevalenceDry": 0.7725,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.7725
+                        },
+                        "ndvi": {
+                            "peopleDry": 3425399,
+                            "peopleAnomaly": 3425399,
+                            "prevalenceDry": 0.2853,
+                            "prevalenceAnomaly": 0.2853
+                        },
+                        "overall": {
+                            "peopleDry": 9274523,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 9274523,
+                            "prevalenceDry": 0.7725,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.7725
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 35,
+                    "name": "Botswana",
+                    "iso3": "BWA",
+                    "iso2": "BW"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 42,
+                    "name": "Burkina Faso",
+                    "iso3": "BFA",
+                    "iso2": "BF"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 43,
+                    "name": "Burundi",
+                    "iso3": "BDI",
+                    "iso2": "BI"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 523401,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 523401,
+                            "prevalenceDry": 0.0468,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0468
+                        },
+                        "ndvi": {
+                            "peopleDry": 5778792,
+                            "peopleAnomaly": 5778792,
+                            "prevalenceDry": 0.5171,
+                            "prevalenceAnomaly": 0.5171
+                        },
+                        "overall": {
+                            "peopleDry": 6302193,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 6302193,
+                            "prevalenceDry": 0.5639,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.5639
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 44,
+                    "name": "Cambodia",
+                    "iso3": "KHM",
+                    "iso2": "KH"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 45,
+                    "name": "Cameroon",
+                    "iso3": "CMR",
+                    "iso2": "CM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 47,
+                    "name": "Cape Verde",
+                    "iso3": "CPV",
+                    "iso2": "CV"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 49,
+                    "name": "Central African Republic",
+                    "iso3": "CAF",
+                    "iso2": "CF"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 1004318,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1004318,
+                            "prevalenceDry": 0.2152,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2152
+                        },
+                        "ndvi": {
+                            "peopleDry": 707547,
+                            "peopleAnomaly": 707547,
+                            "prevalenceDry": 0.1516,
+                            "prevalenceAnomaly": 0.1516
+                        },
+                        "overall": {
+                            "peopleDry": 1004318,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1004318,
+                            "prevalenceDry": 0.2152,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2152
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 50,
+                    "name": "Chad",
+                    "iso3": "TCD",
+                    "iso2": "TD"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 6874572,
+                            "peopleAnomaly": 6874572,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.4311,
+                            "prevalenceAnomaly": 0.4311
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 6874572,
+                            "peopleAnomaly": 6874572,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.4311,
+                            "prevalenceAnomaly": 0.4311
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 57,
+                    "name": "Colombia",
+                    "iso3": "COL",
+                    "iso2": "CO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 17876514,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 17876514,
+                            "prevalenceDry": 0.3601,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3601
+                        },
+                        "ndvi": {
+                            "peopleDry": 80342,
+                            "peopleAnomaly": 80342,
+                            "prevalenceDry": 0.0016,
+                            "prevalenceAnomaly": 0.0016
+                        },
+                        "overall": {
+                            "peopleDry": 17956856,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 17956856,
+                            "prevalenceDry": 0.3617,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3617
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 58,
+                    "name": "Comoros",
+                    "iso3": "COM",
+                    "iso2": "KM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 59,
+                    "name": "Congo",
+                    "iso3": "COG",
+                    "iso2": "CG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 66,
+                    "name": "C\u00f4te d'Ivoire",
+                    "iso3": "CIV",
+                    "iso2": "CI"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 12552152,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 12552152,
+                            "prevalenceDry": 0.4271,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4271
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 12552152,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 12552152,
+                            "prevalenceDry": 0.4271,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4271
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 68,
+                    "name": "Democratic Republic of the Congo",
+                    "iso3": "COD",
+                    "iso2": "CD"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 9775496,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 9775496,
+                            "prevalenceDry": 0.0923,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0923
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 9775496,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 9775496,
+                            "prevalenceDry": 0.0923,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0923
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 70,
+                    "name": "Djibouti",
+                    "iso3": "DJI",
+                    "iso2": "DJ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 72,
+                    "name": "Dominican Republic",
+                    "iso3": "DOM",
+                    "iso2": "DO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 1167534,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1167534,
+                            "prevalenceDry": 0.1084,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1084
+                        },
+                        "ndvi": {
+                            "peopleDry": 516960,
+                            "peopleAnomaly": 516960,
+                            "prevalenceDry": 0.048,
+                            "prevalenceAnomaly": 0.048
+                        },
+                        "overall": {
+                            "peopleDry": 1376906,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1376906,
+                            "prevalenceDry": 0.1278,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1278
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 73,
+                    "name": "Ecuador",
+                    "iso3": "ECU",
+                    "iso2": "EC"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 643654,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 643654,
+                            "prevalenceDry": 0.0368,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0368
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 643654,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 643654,
+                            "prevalenceDry": 0.0368,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0368
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 75,
+                    "name": "El Salvador",
+                    "iso3": "SLV",
+                    "iso2": "SV"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 90,
+                    "name": "Gambia",
+                    "iso3": "GMB",
+                    "iso2": "GM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 94,
+                    "name": "Ghana",
+                    "iso3": "GHA",
+                    "iso2": "GH"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 24820654,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 24820654,
+                            "prevalenceDry": 0.8338,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.8338
+                        },
+                        "ndvi": {
+                            "peopleDry": 5000692,
+                            "peopleAnomaly": 5000692,
+                            "prevalenceDry": 0.168,
+                            "prevalenceAnomaly": 0.168
+                        },
+                        "overall": {
+                            "peopleDry": 24820654,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 24820654,
+                            "prevalenceDry": 0.8338,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.8338
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 103,
+                    "name": "Guatemala",
+                    "iso3": "GTM",
+                    "iso2": "GT"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 440052,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 440052,
+                            "prevalenceDry": 0.0255,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0255
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 440052,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 440052,
+                            "prevalenceDry": 0.0255,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0255
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 105,
+                    "name": "Guinea-Bissau",
+                    "iso3": "GNB",
+                    "iso2": "GW"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 32157,
+                            "peopleAnomaly": 32157,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0172,
+                            "prevalenceAnomaly": 0.0172
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 32157,
+                            "peopleAnomaly": 32157,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0172,
+                            "prevalenceAnomaly": 0.0172
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 106,
+                    "name": "Guinea",
+                    "iso3": "GIN",
+                    "iso2": "GN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 108,
+                    "name": "Haiti",
+                    "iso3": "HTI",
+                    "iso2": "HT"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 111,
+                    "name": "Honduras",
+                    "iso3": "HND",
+                    "iso2": "HN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 117,
+                    "name": "Iran  (Islamic Republic of)",
+                    "iso3": "IRN",
+                    "iso2": "IR"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 5819186,
+                            "peopleAnomaly": 5819186,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0711,
+                            "prevalenceAnomaly": 0.0711
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 5819186,
+                            "peopleAnomaly": 5819186,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0711,
+                            "prevalenceAnomaly": 0.0711
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 118,
+                    "name": "Iraq",
+                    "iso3": "IRQ",
+                    "iso2": "IQ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 130,
+                    "name": "Jordan",
+                    "iso3": "JOR",
+                    "iso2": "JO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 133,
+                    "name": "Kenya",
+                    "iso3": "KEN",
+                    "iso2": "KE"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 138,
+                    "name": "Kyrgyzstan",
+                    "iso3": "KGZ",
+                    "iso2": "KG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 139,
+                    "name": "Lao People's Democratic Republic",
+                    "iso3": "LAO",
+                    "iso2": "LA"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 1935455,
+                            "peopleAnomaly": 1935455,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2741,
+                            "prevalenceAnomaly": 0.2741
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 1935455,
+                            "peopleAnomaly": 1935455,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2741,
+                            "prevalenceAnomaly": 0.2741
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 141,
+                    "name": "Lebanon",
+                    "iso3": "LBN",
+                    "iso2": "LB"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 142,
+                    "name": "Lesotho",
+                    "iso3": "LSO",
+                    "iso2": "LS"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 247394,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 247394,
+                            "prevalenceDry": 0.1174,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1174
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 247394,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 247394,
+                            "prevalenceDry": 0.1174,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1174
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 144,
+                    "name": "Liberia",
+                    "iso3": "LBR",
+                    "iso2": "LR"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 1811863,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1811863,
+                            "prevalenceDry": 0.3966,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3966
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 1811863,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1811863,
+                            "prevalenceDry": 0.3966,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3966
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 145,
+                    "name": "Libya",
+                    "iso3": "LBY",
+                    "iso2": "LY"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 150,
+                    "name": "Madagascar",
+                    "iso3": "MDG",
+                    "iso2": "MG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 152,
+                    "name": "Malawi",
+                    "iso3": "MWI",
+                    "iso2": "MW"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 155,
+                    "name": "Mali",
+                    "iso3": "MLI",
+                    "iso2": "ML"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 10252250,
+                            "peopleAnomaly": 10252250,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.5374,
+                            "prevalenceAnomaly": 0.5374
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 10252250,
+                            "peopleAnomaly": 10252250,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.5374,
+                            "prevalenceAnomaly": 0.5374
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 159,
+                    "name": "Mauritania",
+                    "iso3": "MRT",
+                    "iso2": "MR"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 384824,
+                            "peopleAnomaly": 384824,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0874,
+                            "prevalenceAnomaly": 0.0874
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 384824,
+                            "peopleAnomaly": 384824,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0874,
+                            "prevalenceAnomaly": 0.0874
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 165,
+                    "name": "Moldova, Republic of",
+                    "iso3": "MDA",
+                    "iso2": "MD"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 216975,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 216975,
+                            "prevalenceDry": 0.0612,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0612
+                        },
+                        "ndvi": {
+                            "peopleDry": 859920,
+                            "peopleAnomaly": 859920,
+                            "prevalenceDry": 0.2425,
+                            "prevalenceAnomaly": 0.2425
+                        },
+                        "overall": {
+                            "peopleDry": 859920,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 859920,
+                            "prevalenceDry": 0.2425,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2425
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 167,
+                    "name": "Mongolia",
+                    "iso3": "MNG",
+                    "iso2": "MN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 59531,
+                            "peopleWet": 2084156,
+                            "peopleAnomaly": 2143687,
+                            "prevalenceDry": 0.0188,
+                            "prevalenceWet": 0.6574,
+                            "prevalenceAnomaly": 0.6762
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 59531,
+                            "peopleWet": 2084156,
+                            "peopleAnomaly": 2143687,
+                            "prevalenceDry": 0.0188,
+                            "prevalenceWet": 0.6574,
+                            "prevalenceAnomaly": 0.6762
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 169,
+                    "name": "Morocco",
+                    "iso3": "MAR",
+                    "iso2": "MA"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 17419847,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 17419847,
+                            "prevalenceDry": 0.4835,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4835
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 17419847,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 17419847,
+                            "prevalenceDry": 0.4835,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4835
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 170,
+                    "name": "Mozambique",
+                    "iso3": "MOZ",
+                    "iso2": "MZ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 172,
+                    "name": "Namibia",
+                    "iso3": "NAM",
+                    "iso2": "NA"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 175,
+                    "name": "Nepal",
+                    "iso3": "NPL",
+                    "iso2": "NP"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 181,
+                    "name": "Niger",
+                    "iso3": "NER",
+                    "iso2": "NE"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 15818535,
+                            "peopleAnomaly": 15818535,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.6112,
+                            "prevalenceAnomaly": 0.6112
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 15818535,
+                            "peopleAnomaly": 15818535,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.6112,
+                            "prevalenceAnomaly": 0.6112
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 182,
+                    "name": "Nigeria",
+                    "iso3": "NGA",
+                    "iso2": "NG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 87709537,
+                            "peopleWet": 6366194,
+                            "peopleAnomaly": 94075731,
+                            "prevalenceDry": 0.4326,
+                            "prevalenceWet": 0.0314,
+                            "prevalenceAnomaly": 0.464
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 87709537,
+                            "peopleWet": 6366194,
+                            "peopleAnomaly": 94075731,
+                            "prevalenceDry": 0.4326,
+                            "prevalenceWet": 0.0314,
+                            "prevalenceAnomaly": 0.464
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 195,
+                    "name": "Peru",
+                    "iso3": "PER",
+                    "iso2": "PE"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 725583,
+                            "peopleWet": 2698776,
+                            "peopleAnomaly": 3424359,
+                            "prevalenceDry": 0.0227,
+                            "prevalenceWet": 0.0844,
+                            "prevalenceAnomaly": 0.107
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 725583,
+                            "peopleWet": 2698776,
+                            "peopleAnomaly": 3424359,
+                            "prevalenceDry": 0.0227,
+                            "prevalenceWet": 0.0844,
+                            "prevalenceAnomaly": 0.107
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 205,
+                    "name": "Rwanda",
+                    "iso3": "RWA",
+                    "iso2": "RW"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 2692638,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 2692638,
+                            "prevalenceDry": 0.2189,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2189
+                        },
+                        "ndvi": {
+                            "peopleDry": 6738531,
+                            "peopleAnomaly": 6738531,
+                            "prevalenceDry": 0.5478,
+                            "prevalenceAnomaly": 0.5478
+                        },
+                        "overall": {
+                            "peopleDry": 9431169,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 9431169,
+                            "prevalenceDry": 0.7666,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.7666
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 214,
+                    "name": "Sao Tome and Principe",
+                    "iso3": "STP",
+                    "iso2": "ST"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 221,
+                    "name": "Sierra Leone",
+                    "iso3": "SLE",
+                    "iso2": "SL"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 225,
+                    "name": "Solomon Islands",
+                    "iso3": "SLB",
+                    "iso2": "SB"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 24661,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 24661,
+                            "prevalenceDry": 0.0378,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0378
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 24661,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 24661,
+                            "prevalenceDry": 0.0378,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0378
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 226,
+                    "name": "Somalia",
+                    "iso3": "SOM",
+                    "iso2": "SO"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 1153711,
+                            "peopleWet": 1824626,
+                            "peopleAnomaly": 2978337,
+                            "prevalenceDry": 0.0704,
+                            "prevalenceWet": 0.1114,
+                            "prevalenceAnomaly": 0.1818
+                        },
+                        "ndvi": {
+                            "peopleDry": 2777227,
+                            "peopleAnomaly": 2777227,
+                            "prevalenceDry": 0.1695,
+                            "prevalenceAnomaly": 0.1695
+                        },
+                        "overall": {
+                            "peopleDry": 3930938,
+                            "peopleWet": 1824626,
+                            "peopleAnomaly": 5755564,
+                            "prevalenceDry": 0.2399,
+                            "prevalenceWet": 0.1114,
+                            "prevalenceAnomaly": 0.3513
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 231,
+                    "name": "Sri Lanka",
+                    "iso3": "LKA",
+                    "iso2": "LK"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 2620745,
+                            "peopleAnomaly": 2620745,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.1209,
+                            "prevalenceAnomaly": 0.1209
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 2620745,
+                            "peopleAnomaly": 2620745,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.1209,
+                            "prevalenceAnomaly": 0.1209
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 235,
+                    "name": "Eswatini",
+                    "iso3": "SWZ",
+                    "iso2": "SZ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 911977,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 911977,
+                            "prevalenceDry": 0.8027,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.8027
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 911977,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 911977,
+                            "prevalenceDry": 0.8027,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.8027
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 238,
+                    "name": "Syrian Arab Republic",
+                    "iso3": "SYR",
+                    "iso2": "SY"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 239,
+                    "name": "Tajikistan",
+                    "iso3": "TJK",
+                    "iso2": "TJ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 242,
+                    "name": "Timor-Leste",
+                    "iso3": "TLS",
+                    "iso2": "TL"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 243,
+                    "name": "Togo",
+                    "iso3": "TGO",
+                    "iso2": "TG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 3461073,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 3461073,
+                            "prevalenceDry": 0.4387,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4387
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 3461073,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 3461073,
+                            "prevalenceDry": 0.4387,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4387
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 248,
+                    "name": "Tunisia",
+                    "iso3": "TUN",
+                    "iso2": "TN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 4804947,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 4804947,
+                            "prevalenceDry": 0.4155,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4155
+                        },
+                        "ndvi": {
+                            "peopleDry": 1278158,
+                            "peopleAnomaly": 1278158,
+                            "prevalenceDry": 0.1105,
+                            "prevalenceAnomaly": 0.1105
+                        },
+                        "overall": {
+                            "peopleDry": 4804947,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 4804947,
+                            "prevalenceDry": 0.4155,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.4155
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 253,
+                    "name": "Uganda",
+                    "iso3": "UGA",
+                    "iso2": "UG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 277823,
+                            "peopleAnomaly": 277823,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.0065,
+                            "prevalenceAnomaly": 0.0065
+                        },
+                        "ndvi": {
+                            "peopleDry": 5478067,
+                            "peopleAnomaly": 5478067,
+                            "prevalenceDry": 0.1282,
+                            "prevalenceAnomaly": 0.1282
+                        },
+                        "overall": {
+                            "peopleDry": 5478067,
+                            "peopleWet": 277823,
+                            "peopleAnomaly": 5755890,
+                            "prevalenceDry": 0.1282,
+                            "prevalenceWet": 0.0065,
+                            "prevalenceAnomaly": 0.1347
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 254,
+                    "name": "Ukraine",
+                    "iso3": "UKR",
+                    "iso2": "UA"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 13198703,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 13198703,
+                            "prevalenceDry": 0.3407,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3407
+                        },
+                        "ndvi": {
+                            "peopleDry": 13640684,
+                            "peopleAnomaly": 13640684,
+                            "prevalenceDry": 0.3521,
+                            "prevalenceAnomaly": 0.3521
+                        },
+                        "overall": {
+                            "peopleDry": 13640684,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 13640684,
+                            "prevalenceDry": 0.3521,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.3521
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 257,
+                    "name": "United Republic of Tanzania",
+                    "iso3": "TZA",
+                    "iso2": "TZ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 13353621,
+                            "peopleAnomaly": 13353621,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2371,
+                            "prevalenceAnomaly": 0.2371
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 13353621,
+                            "peopleAnomaly": 13353621,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2371,
+                            "prevalenceAnomaly": 0.2371
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 261,
+                    "name": "Uzbekistan",
+                    "iso3": "UZB",
+                    "iso2": "UZ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 939704,
+                            "peopleAnomaly": 939704,
+                            "prevalenceDry": 0.0285,
+                            "prevalenceAnomaly": 0.0285
+                        },
+                        "overall": {
+                            "peopleDry": 939704,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 939704,
+                            "prevalenceDry": 0.0285,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0285
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 264,
+                    "name": "Viet Nam",
+                    "iso3": "VNM",
+                    "iso2": "VN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 21303355,
+                            "peopleAnomaly": 21303355,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.223,
+                            "prevalenceAnomaly": 0.223
+                        },
+                        "ndvi": {
+                            "peopleDry": 985661,
+                            "peopleAnomaly": 985661,
+                            "prevalenceDry": 0.0103,
+                            "prevalenceAnomaly": 0.0103
+                        },
+                        "overall": {
+                            "peopleDry": 985661,
+                            "peopleWet": 21303355,
+                            "peopleAnomaly": 22289016,
+                            "prevalenceDry": 0.0103,
+                            "prevalenceWet": 0.223,
+                            "prevalenceAnomaly": 0.2333
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 269,
+                    "name": "Yemen",
+                    "iso3": "YEM",
+                    "iso2": "YE"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 7365748,
+                            "peopleAnomaly": 7365748,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2156,
+                            "prevalenceAnomaly": 0.2156
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 7365748,
+                            "peopleAnomaly": 7365748,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.2156,
+                            "prevalenceAnomaly": 0.2156
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 270,
+                    "name": "Zambia",
+                    "iso3": "ZMB",
+                    "iso2": "ZM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 271,
+                    "name": "Zimbabwe",
+                    "iso3": "ZWE",
+                    "iso2": "ZW"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 272,
+                    "name": "Indonesia",
+                    "iso3": "IDN",
+                    "iso2": "ID"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 76080857,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 76080857,
+                            "prevalenceDry": 0.2842,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2842
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 76080857,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 76080857,
+                            "prevalenceDry": 0.2842,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.2842
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 273,
+                    "name": "Myanmar",
+                    "iso3": "MMR",
+                    "iso2": "MM"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 17955861,
+                            "peopleAnomaly": 17955861,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.3343,
+                            "prevalenceAnomaly": 0.3343
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 17955861,
+                            "peopleAnomaly": 17955861,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0.3343,
+                            "prevalenceAnomaly": 0.3343
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 274,
+                    "name": "Papua New Guinea",
+                    "iso3": "PNG",
+                    "iso2": "PG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 1562051,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1562051,
+                            "prevalenceDry": 0.1815,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1815
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 1562051,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1562051,
+                            "prevalenceDry": 0.1815,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.1815
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 275,
+                    "name": "Philippines",
+                    "iso3": "PHL",
+                    "iso2": "PH"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 276,
+                    "name": "Fiji",
+                    "iso3": "FJI",
+                    "iso2": "FJ"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 519404,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 519404,
+                            "prevalenceDry": 0.5879,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.5879
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 519404,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 519404,
+                            "prevalenceDry": 0.5879,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.5879
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 277,
+                    "name": "Vanuatu",
+                    "iso3": "VUT",
+                    "iso2": "VU"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 195980,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 195980,
+                            "prevalenceDry": 0.6696,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.6696
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 195980,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 195980,
+                            "prevalenceDry": 0.6696,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.6696
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 278,
+                    "name": "Senegal",
+                    "iso3": "SEN",
+                    "iso2": "SN"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 1013284,
+                            "peopleAnomaly": 1013284,
+                            "prevalenceDry": 0.0639,
+                            "prevalenceAnomaly": 0.0639
+                        },
+                        "overall": {
+                            "peopleDry": 1013284,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 1013284,
+                            "prevalenceDry": 0.0639,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0.0639
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 40765,
+                    "name": "Egypt",
+                    "iso3": "EGY",
+                    "iso2": "EG"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": false,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 70001,
+                    "name": "South Sudan",
+                    "iso3": "SSD",
+                    "iso2": "SS"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 0,
+                            "peopleWet": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceWet": 0,
+                            "prevalenceAnomaly": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "country": {
+                    "id": 147299,
+                    "name": "Cuba",
+                    "iso3": "CUB",
+                    "iso2": "CU"
+                },
+                "dataPoints": [
+                    {
+                        "dekadStart": "2024-10-01",
+                        "inSeason": true,
+                        "rainfall": {
+                            "peopleDry": 533830,
+                            "peopleWet": 2830907,
+                            "peopleAnomaly": 3364737,
+                            "prevalenceDry": 0.0471,
+                            "prevalenceWet": 0.2497,
+                            "prevalenceAnomaly": 0.2968
+                        },
+                        "ndvi": {
+                            "peopleDry": 0,
+                            "peopleAnomaly": 0,
+                            "prevalenceDry": 0,
+                            "prevalenceAnomaly": 0
+                        },
+                        "overall": {
+                            "peopleDry": 533830,
+                            "peopleWet": 2830907,
+                            "peopleAnomaly": 3364737,
+                            "prevalenceDry": 0.0471,
+                            "prevalenceWet": 0.2497,
+                            "prevalenceAnomaly": 0.2968
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

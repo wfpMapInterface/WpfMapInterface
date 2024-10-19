@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+.app-container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.map-area {
+  flex: 1;
+}
+
+.sidebar {
+  width: 300px;
+  background-color: #f4f4f4;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    position: absolute;
+    top: 0;
+  }
+}
+/* CSS for global layout */
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.map-area {
+  flex: 1; /* Make the map fill available space */
+}
+
+.sidebar {
+  width: 300px;
+  background-color: #f8f9fa;
+  overflow-y: auto; /* Scrollable sidebar if content overflows */
+}
+
+@media (max-width: 768px) {
+  /* When the screen width is below 768px, collapse the sidebar */
+  .sidebar {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 50vh; /* Take half the screen */
+  }
+}
