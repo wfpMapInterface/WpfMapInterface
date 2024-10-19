@@ -2,6 +2,7 @@
   "name": "map-interface",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://WpfMapInterface.github.io/WpfMapInterface",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "@types/node": "^16.18.114",
