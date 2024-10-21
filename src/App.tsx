@@ -1,19 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import MapComponent from './components/MapComponent';
 import Sidebar from './components/Sidebar';
+import 'mapbox-gl/dist/mapbox-gl.css'; // Import Mapbox styles
 import './App.css'; // Import global styles
-
-// Main App component
 const App: React.FC = () => {
+  const [selectedCountry, setSelectedCountry] = useState<any>(null);
+
+  const handleCountrySelect = (country: any) => {
+    setSelectedCountry(country); // Update the selected country when clicked
+  };
+
   return (
     <div className="app-container">
-      {/* Map area */}
-      <div className="map-area">
-        <MapComponent />
-      </div>
+      {/* Map component passing the handler to select country */}
+      <MapComponent onCountrySelect={handleCountrySelect} />
 
-      {/* Sidebar area */}
-      <Sidebar />
+      {/* Sidebar area, passing the selectedCountry to Sidebar */}
+      {selectedCountry && <Sidebar selectedCountry={selectedCountry} />}
     </div>
   );
 };

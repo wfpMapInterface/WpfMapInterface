@@ -1,24 +1,38 @@
-// src/__tests__/MapComponent.test.tsx
 import React from 'react';
-import { render } from '@testing-library/react';
-import MapComponent from '../components/MapComponent';
-import '@testing-library/jest-dom/extend-expect';
-import fetch from 'node-fetch';
+import { render, screen, fireEvent } from '@testing-library/react';
+import MapComponent from './MapComponent';
+import Sidebar from './Sidebar';
 
 describe('MapComponent', () => {
-  test('renders map with default viewport', () => {
-    const { getByRole } = render(<MapComponent />);
+  const mockCountry = {
+    name: 'Test Country',
+    population: 5000000,
+    foodSecurityPhase: 'Phase 3',
+    climateData: 'Tropical',
+    hazards: 'Floods',
+  };
 
-    // Check if the map is rendered
-    const mapElement = getByRole('application');
-    expect(mapElement).toBeInTheDocument();
+  const mockOnCountrySelect = jest.fn();
+
+  test('renders MapComponent and handles country click event', () => {
+    render(<MapComponent onCountrySelect={mockOnCountrySelect} />);
+
+    // Simulate map rendering and user interaction
+    const map = screen.getByRole('presentation'); // Get the MapGL component
+
+    fireEvent.click(map); // Simulate a click event on the map
+
+    expect(mockOnCountrySelect).toHaveBeenCalled();
   });
 
-  test('renders navigation controls', () => {
-    const { container } = render(<MapComponent />);
+  test('displays the sidebar with country data when a country is clicked', () => {
+    render(<Sidebar selectedCountry={mockCountry} />);
 
-    // Check if the navigation controls are rendered
-    const navigationControl = container.querySelector('.mapboxgl-ctrl');
-    expect(navigationControl).toBeInTheDocument();
+    // Check if country details are displayed in the sidebar
+    expect(screen.getByText(/Test Country/i)).toBeInTheDocument();
+    expect(screen.getByText(/5000000/i)).toBeInTheDocument();
+    expect(screen.getByText(/Phase 3/i)).toBeInTheDocument();
+    expect(screen.getByText(/Tropical/i)).toBeInTheDocument();
+    expect(screen.getByText(/Floods/i)).toBeInTheDocument();
   });
 });

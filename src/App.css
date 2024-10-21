@@ -1,85 +1,94 @@
-.App {
-  text-align: center;
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html, body {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+#map {
+  height: 100vh;
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#root {
+  height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* App layout styles */
+.map-container {
+  position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-.app-container {
-  display: flex;
-  flex-direction: row;
   height: 100vh;
+  width: 100vw;
 }
 
 .map-area {
-  flex: 1;
+  flex: 1; /* Takes up the remaining space (central area) */
+  width: 100%;
 }
 
 .sidebar {
-  width: 300px;
-  background-color: #f4f4f4;
-}
-
-@media (max-width: 768px) {
-  .sidebar {
-    width: 100%;
-    position: absolute;
-    top: 0;
-  }
-}
-/* CSS for global layout */
-.app-container {
-  display: flex;
-  height: 100vh;
-}
-
-.map-area {
-  flex: 1; /* Make the map fill available space */
-}
-
-.sidebar {
-  width: 300px;
+  height: 250px; /* Adjust this to your desired height */
+  width: 100%;
   background-color: #f8f9fa;
-  overflow-y: auto; /* Scrollable sidebar if content overflows */
+  overflow-y: auto; /* Scrollable if the content is long */
+  border-top: 2px solid #ddd;
+  padding: 10px;
 }
 
+
+/* Sidebar content */
+.sidebar h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+.sidebar p {
+  margin-bottom: 8px;
+  font-size: 16px;
+  color: #555;
+}
+
+.sidebar p strong {
+  color: #222;
+}
+
+/* Responsive Styles */
 @media (max-width: 768px) {
-  /* When the screen width is below 768px, collapse the sidebar */
   .sidebar {
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    height: 50vh; /* Take half the screen */
+    padding: 10px;
+    max-height: 200px;
   }
+
+  .sidebar p {
+    font-size: 14px;
+  }
+}
+
+@media (max-height: 500px) {
+  .sidebar {
+    max-height: 150px;
+  }
+}
+
+/* Loader Styling (for loading state) */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 20px;
+  color: #555;
+}
+
+/* Mapbox Navigation Control Styling */
+.mapboxgl-ctrl-top-right {
+  right: 10px !important;
+  top: 10px !important;
 }

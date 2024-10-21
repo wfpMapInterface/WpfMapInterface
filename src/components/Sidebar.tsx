@@ -1,16 +1,26 @@
 import React from 'react';
 
-// Sidebar component for displaying information
-const Sidebar: React.FC = () => {
+interface SidebarProps {
+  selectedCountry: any;
+}
+
+const Sidebar: React.FC<SidebarProps> = ({ selectedCountry }) => {
+  if (!selectedCountry) {
+    return (
+      <div className="sidebar">
+        <p>Select a country on the map to view details.</p>
+      </div>
+    );
+  }
+
   return (
     <div className="sidebar">
-      <h2>Country Information</h2>
-      {/* This is where detailed data will be shown */}
-      <div>
-        <strong>Population:</strong> 10M<br/>
-        <strong>Food Security:</strong> Phase 2<br/>
-        <strong>Climate Data:</strong> 25°C, Moderate Rain
-      </div>
+      <h3>Country Information</h3>
+      <p><strong>Name:</strong> {selectedCountry.name}</p>
+      <p><strong>Population:</strong> {selectedCountry.population || 'Data not available'}</p>
+      <p><strong>Food Security Phase:</strong> {selectedCountry.foodSecurityPhase || 'Data not available'}</p>
+      <p><strong>Climate Data:</strong> {selectedCountry.climateData || 'Data not available'}</p>
+      <p><strong>Hazards:</strong> {selectedCountry.hazards || 'Data not available'}</p>
     </div>
   );
 };
