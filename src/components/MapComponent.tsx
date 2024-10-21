@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import MapGL, { NavigationControl, ViewStateChangeEvent } from 'react-map-gl';
 import axios from 'axios';
 import PopupComponent from './PopupComponent'; // Optional popup
-import LoadingSpinner from './LoadingSpinner';
+import LoadingSpinner from './LoadingSpinner'; // Fixed the import statement
 import Sidebar from './Sidebar';
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
-import MapComponent from './MapComponent';
-import Sidebar from './Sidebar';
+import MapComponent from '../components/MapComponent';
+import Sidebar from '../components//Sidebar';
 
 describe('MapComponent', () => {
   const mockCountry = {
