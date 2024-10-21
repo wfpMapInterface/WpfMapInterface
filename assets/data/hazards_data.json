@@ -1,0 +1,4291 @@
+{
+    "statusCode": "200",
+    "body": {
+        "hazards": [
+            {
+                "severity": "WARNING",
+                "type": "HIGHWIND",
+                "name": "High Wind - Arviat, Nunavut, Canada",
+                "latitude": 61.09,
+                "longitude": -94.18,
+                "created": "2024-10-03 06:21:21",
+                "lastUpdate": "2024-10-03 06:21:29"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Manam, Papua New Guinea",
+                "latitude": -4.08,
+                "longitude": 145.037,
+                "created": "2024-09-28 14:17:20",
+                "lastUpdate": "2024-10-03 06:01:13"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Karymsky, Russia",
+                "latitude": 54.049,
+                "longitude": 159.443,
+                "created": "2024-09-30 02:30:54",
+                "lastUpdate": "2024-10-03 05:39:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Titusville, FL Region, United States",
+                "latitude": 28.7185,
+                "longitude": -80.8842,
+                "created": "2024-10-03 05:12:54",
+                "lastUpdate": "2024-10-03 05:17:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Semeru, Indonesia",
+                "latitude": -8.108,
+                "longitude": 112.92,
+                "created": "2024-03-18 23:50:53",
+                "lastUpdate": "2024-10-03 05:00:04"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Ali Curung, Northern Territory, Australia",
+                "latitude": -20.72692315,
+                "longitude": 134.20223188,
+                "created": "2024-09-29 20:51:52",
+                "lastUpdate": "2024-10-03 04:55:03"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Yellow Pine, Idaho, United States",
+                "latitude": 44.823831,
+                "longitude": -115.02705324,
+                "created": "2024-09-29 20:20:24",
+                "lastUpdate": "2024-10-03 04:26:44"
+            },
+            {
+                "severity": "WATCH",
+                "type": "VOLCANO",
+                "name": "Volcano - Dukono, Indonesia",
+                "latitude": 1.68,
+                "longitude": 127.88,
+                "created": "2024-07-27 03:11:15",
+                "lastUpdate": "2024-10-03 04:26:00"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Pack Trail Fire, Wyoming, United States",
+                "latitude": 43.61205964,
+                "longitude": -110.07530806,
+                "created": "2024-09-28 12:19:02",
+                "lastUpdate": "2024-10-03 04:25:45"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Jordan Valley,Oregon, United States",
+                "latitude": 42.71521369,
+                "longitude": -116.682162,
+                "created": "2024-10-01 20:22:12",
+                "lastUpdate": "2024-10-03 04:24:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Grand Canyon, Arizona, United States",
+                "latitude": 35.86302909,
+                "longitude": -111.87144102,
+                "created": "2024-10-03 04:22:12",
+                "lastUpdate": "2024-10-03 04:23:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Nevado del Ruiz, Colombia",
+                "latitude": 4.892,
+                "longitude": -75.324,
+                "created": "2024-09-17 21:20:54",
+                "lastUpdate": "2024-10-03 04:04:25"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Lizarda, Tocantins, Brazil",
+                "latitude": -8.9966215,
+                "longitude": -45.24095287,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-03 04:01:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Porto Porobeu, Mato Grosso, Brazil",
+                "latitude": -16.7537709,
+                "longitude": -55.94541417,
+                "created": "2024-09-20 00:08:12",
+                "lastUpdate": "2024-10-03 04:00:38"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Reyes, El Beni, Bolivia",
+                "latitude": -13.92321877,
+                "longitude": -67.21384189,
+                "created": "2024-10-01 23:30:17",
+                "lastUpdate": "2024-10-03 03:59:31"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Puerto Villarroel, Cochabamba, Bolivia",
+                "latitude": -16.16108353,
+                "longitude": -64.85409403,
+                "created": "2024-09-30 23:24:51",
+                "lastUpdate": "2024-10-03 03:58:35"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Cobija, Pando, Bolivia",
+                "latitude": -11.2404168,
+                "longitude": -69.53502856,
+                "created": "2024-10-02 03:11:27",
+                "lastUpdate": "2024-10-03 03:57:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Puerto Heath, La Paz, Bolivia",
+                "latitude": -13.20023145,
+                "longitude": -67.47657202,
+                "created": "2024-09-27 23:19:20",
+                "lastUpdate": "2024-10-03 03:56:44"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Retiro do Presidente, Mato Grosso, Brazil",
+                "latitude": -16.68432459,
+                "longitude": -57.49265673,
+                "created": "2024-10-01 07:12:58",
+                "lastUpdate": "2024-10-03 03:55:44"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Piso Firme, Santa Cruz, Bolivia",
+                "latitude": -14.34211137,
+                "longitude": -61.68842154,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-03 03:54:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of San Jos\u00e9, Santa Cruz, Bolivia",
+                "latitude": -17.35178141,
+                "longitude": -59.90573785,
+                "created": "2024-09-30 02:59:01",
+                "lastUpdate": "2024-10-03 03:53:51"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Magdalena, El Beni, Bolivia",
+                "latitude": -13.45121133,
+                "longitude": -64.23930275,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 03:52:53"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Puerto Quijarro, Santa Cruz, Bolivia",
+                "latitude": -18.08238557,
+                "longitude": -57.75215614,
+                "created": "2024-09-29 23:13:31",
+                "lastUpdate": "2024-10-03 03:51:56"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Puerto Heath, La Paz, Bolivia",
+                "latitude": -12.67277478,
+                "longitude": -67.63835686,
+                "created": "2024-09-23 00:17:07",
+                "lastUpdate": "2024-10-03 03:50:56"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Sao Domingos, Mato Grosso, Brazil",
+                "latitude": -13.55203222,
+                "longitude": -51.19756935,
+                "created": "2024-09-30 23:24:51",
+                "lastUpdate": "2024-10-03 03:49:56"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Barracao Belo Horizonte, Rondonia, Brazil",
+                "latitude": -11.65959754,
+                "longitude": -63.9692388,
+                "created": "2024-09-29 11:02:49",
+                "lastUpdate": "2024-10-03 03:48:59"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Pedras Negras, Rondonia, Brazil",
+                "latitude": -12.75278164,
+                "longitude": -63.01002394,
+                "created": "2024-09-27 19:13:08",
+                "lastUpdate": "2024-10-03 03:48:02"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of San Rafael, Santa Cruz, Bolivia",
+                "latitude": -17.13288121,
+                "longitude": -60.33704102,
+                "created": "2024-09-29 23:13:30",
+                "lastUpdate": "2024-10-03 03:47:03"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Boa Hora, Rondonia, Brazil",
+                "latitude": -11.66276486,
+                "longitude": -65.12846843,
+                "created": "2024-10-02 19:23:56",
+                "lastUpdate": "2024-10-03 03:46:05"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Puerto Quijarro, Santa Cruz, Bolivia",
+                "latitude": -17.97271932,
+                "longitude": -58.5726676,
+                "created": "2024-09-29 23:13:30",
+                "lastUpdate": "2024-10-03 03:45:10"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Baures, El Beni, Bolivia",
+                "latitude": -13.92442179,
+                "longitude": -64.01794212,
+                "created": "2024-10-01 23:30:16",
+                "lastUpdate": "2024-10-03 03:44:12"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Santa Ana, El Beni, Bolivia",
+                "latitude": -11.99105832,
+                "longitude": -65.86420849,
+                "created": "2024-09-29 11:02:49",
+                "lastUpdate": "2024-10-03 03:43:14"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Rodrigues Alves, Rondonia, Brazil",
+                "latitude": -12.6835337,
+                "longitude": -65.72669923,
+                "created": "2024-10-02 15:17:42",
+                "lastUpdate": "2024-10-03 03:42:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Formosa, Mato Grosso, Brazil",
+                "latitude": -16.58308154,
+                "longitude": -58.22889958,
+                "created": "2024-10-02 11:17:40",
+                "lastUpdate": "2024-10-03 03:41:20"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Reyes, El Beni, Bolivia",
+                "latitude": -14.40036847,
+                "longitude": -67.09081724,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-03 03:40:24"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Pedras Negras, Rondonia, Brazil",
+                "latitude": -13.72935212,
+                "longitude": -63.29085746,
+                "created": "2024-10-01 15:15:05",
+                "lastUpdate": "2024-10-03 03:39:29"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Carandazinho, Mato Grosso, Brazil",
+                "latitude": -17.08467735,
+                "longitude": -56.73160476,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 03:38:33"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Robore, Santa Cruz, Bolivia",
+                "latitude": -17.78577284,
+                "longitude": -59.46815162,
+                "created": "2024-09-29 23:13:31",
+                "lastUpdate": "2024-10-03 03:37:36"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Puerto Suarez, Santa Cruz, Bolivia",
+                "latitude": -19.46954904,
+                "longitude": -58.78250039,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 03:36:39"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Cobija, Pando, Bolivia",
+                "latitude": -10.36938066,
+                "longitude": -68.90766915,
+                "created": "2024-10-02 23:33:43",
+                "lastUpdate": "2024-10-03 03:35:43"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Trinidad, El Beni, Bolivia",
+                "latitude": -15.38459801,
+                "longitude": -65.17538388,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 03:34:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Ascension, Santa Cruz, Bolivia",
+                "latitude": -16.14609163,
+                "longitude": -63.33057279,
+                "created": "2024-09-27 11:11:09",
+                "lastUpdate": "2024-10-03 03:33:50"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Sabancaya, Peru",
+                "latitude": -15.78,
+                "longitude": -71.85,
+                "created": "2023-10-23 13:51:36",
+                "lastUpdate": "2024-10-03 03:33:13"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of San Javier, Santa Cruz, Bolivia",
+                "latitude": -15.6532542,
+                "longitude": -62.3206432,
+                "created": "2024-09-28 11:02:12",
+                "lastUpdate": "2024-10-03 03:32:51"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Santa Ana, El Beni, Bolivia",
+                "latitude": -14.16078897,
+                "longitude": -65.18880354,
+                "created": "2024-09-28 23:11:52",
+                "lastUpdate": "2024-10-03 03:31:50"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Puerto Villarroel, Cochabamba, Bolivia",
+                "latitude": -15.90021549,
+                "longitude": -64.51607582,
+                "created": "2024-09-25 03:29:14",
+                "lastUpdate": "2024-10-03 03:30:48"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Horodnia, Chernigov, Ukraine",
+                "latitude": 52.02767873,
+                "longitude": 32.02831118,
+                "created": "2024-10-02 03:26:12",
+                "lastUpdate": "2024-10-03 03:30:37"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Ascension, Santa Cruz, Bolivia",
+                "latitude": -15.05750247,
+                "longitude": -62.84112542,
+                "created": "2024-10-02 19:23:56",
+                "lastUpdate": "2024-10-03 03:29:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Suz\u00ebmka, Bryanskaya, Russia",
+                "latitude": 52.3410951,
+                "longitude": 33.70953133,
+                "created": "2024-09-28 15:23:56",
+                "lastUpdate": "2024-10-03 03:29:40"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Aldeia Pimentel Barbosa, Mato Grosso, Brazil",
+                "latitude": -13.0431672,
+                "longitude": -51.30971296,
+                "created": "2024-10-01 07:12:58",
+                "lastUpdate": "2024-10-03 03:28:48"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Semenivka, Chernigov, Ukraine",
+                "latitude": 52.15879739,
+                "longitude": 32.39610315,
+                "created": "2024-10-03 03:26:08",
+                "lastUpdate": "2024-10-03 03:28:41"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Reyes, El Beni, Bolivia",
+                "latitude": -12.78119235,
+                "longitude": -66.90096687,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:27:51"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Semenivka, Chernigov, Ukraine",
+                "latitude": 52.24145872,
+                "longitude": 33.21943203,
+                "created": "2024-10-03 03:26:08",
+                "lastUpdate": "2024-10-03 03:27:44"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Santa Ana, El Beni, Bolivia",
+                "latitude": -14.47024694,
+                "longitude": -65.80966888,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:26:55"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Pedras Negras, Rondonia, Brazil",
+                "latitude": -13.21818846,
+                "longitude": -63.01981582,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:24:59"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Santa Ana, El Beni, Bolivia",
+                "latitude": -13.2157532,
+                "longitude": -65.91205595,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:24:03"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Pindaival, Mato Grosso, Brazil",
+                "latitude": -17.13862883,
+                "longitude": -56.15238739,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:23:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Mazabuka, Southern, Zambia",
+                "latitude": -15.64,
+                "longitude": 27.71,
+                "created": "2024-10-03 03:10:38",
+                "lastUpdate": "2024-10-03 03:16:49"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CYCLONE",
+                "name": "Hurricane - Kirk",
+                "latitude": 19.5,
+                "longitude": -44.5,
+                "created": "2024-09-29 21:06:27",
+                "lastUpdate": "2024-10-03 03:16:29"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Tropical Depression - Eleven-e",
+                "latitude": 14.2,
+                "longitude": -96.7,
+                "created": "2024-10-01 20:55:28",
+                "lastUpdate": "2024-10-03 03:16:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Gualeguay, Entre R\u00edos, Argentina",
+                "latitude": -33.21,
+                "longitude": -59.68,
+                "created": "2024-09-25 03:14:23",
+                "lastUpdate": "2024-10-03 03:16:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Rosario, Santa Fe, Argentina",
+                "latitude": -32.48,
+                "longitude": -60.79,
+                "created": "2024-09-29 03:09:13",
+                "lastUpdate": "2024-10-03 03:15:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Changling, Heilongjiang, Jilin and Nei Mongol, China",
+                "latitude": 45.43,
+                "longitude": 124.65,
+                "created": "2024-08-24 03:08:39",
+                "lastUpdate": "2024-10-03 03:15:33"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Chennai, Andhra Pradesh, Puducherry and Tamil Nadu, India",
+                "latitude": 13.66,
+                "longitude": 79.74,
+                "created": "2024-09-17 03:13:12",
+                "lastUpdate": "2024-10-03 03:15:08"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Farafangana, Fianarantsoa and Toamasina, Madagascar",
+                "latitude": -22.59,
+                "longitude": 47.82,
+                "created": "2024-10-03 03:10:20",
+                "lastUpdate": "2024-10-03 03:14:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Darwin, Northern Territory, Australia",
+                "latitude": -7.51,
+                "longitude": 131.47,
+                "created": "2024-10-03 03:10:19",
+                "lastUpdate": "2024-10-03 03:14:18"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Kotabumi, Lampung, Indonesia",
+                "latitude": -4.25,
+                "longitude": 105.81,
+                "created": "2024-10-03 03:10:18",
+                "lastUpdate": "2024-10-03 03:13:50"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Liao He Basin, SE of Liao He River, China and North Korea",
+                "latitude": 40.83,
+                "longitude": 121.96,
+                "created": "2024-10-03 03:10:18",
+                "lastUpdate": "2024-10-03 03:13:27"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Etawah, Central India",
+                "latitude": 26.19,
+                "longitude": 79.47,
+                "created": "2024-10-03 03:10:17",
+                "lastUpdate": "2024-10-03 03:13:00"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Krishna Basin, India",
+                "latitude": 16.79,
+                "longitude": 73.61,
+                "created": "2024-10-03 03:10:17",
+                "lastUpdate": "2024-10-03 03:12:36"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Bukama, Haut-Lomami, Congo, DRC",
+                "latitude": -8.26,
+                "longitude": 26.55,
+                "created": "2024-10-03 03:10:16",
+                "lastUpdate": "2024-10-03 03:12:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Bolobo, Ma\u00ef-Ndombe, Congo, DRC",
+                "latitude": -1.29,
+                "longitude": 16.76,
+                "created": "2024-10-03 03:10:15",
+                "lastUpdate": "2024-10-03 03:11:43"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Rosso, Trarza, Mauritania",
+                "latitude": 16.13,
+                "longitude": -16.25,
+                "created": "2024-10-03 03:10:15",
+                "lastUpdate": "2024-10-03 03:11:17"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.5 - southern Mid-Atlantic Ridge",
+                "latitude": -46.834,
+                "longitude": -10.5397,
+                "created": "2024-10-02 02:23:50",
+                "lastUpdate": "2024-10-03 03:05:24"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, S of Karakol, Ysyk-K\u00f6l, Kyrgyzstan",
+                "latitude": 42.26,
+                "longitude": 78.44,
+                "created": "2024-10-03 02:27:25",
+                "lastUpdate": "2024-10-03 03:03:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Chiapas Highlands, San Cristobal de Las Casas, Chiapas, Mexico",
+                "latitude": 16.88,
+                "longitude": -92.54,
+                "created": "2024-10-03 02:27:22",
+                "lastUpdate": "2024-10-03 03:02:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, S of Cholpon Ata, Ysyk-K\u00f6l, Kyrgyzstan",
+                "latitude": 41.94,
+                "longitude": 77.36,
+                "created": "2024-10-03 02:27:18",
+                "lastUpdate": "2024-10-03 03:01:52"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Maoke Mountains, E of Timika, Papua, Indonesia",
+                "latitude": -4.52,
+                "longitude": 138.44,
+                "created": "2024-10-03 02:27:18",
+                "lastUpdate": "2024-10-03 03:01:21"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - South Island, NW of Kaikoura, Canterbury, New Zealand",
+                "latitude": -42.08,
+                "longitude": 173.17,
+                "created": "2024-10-03 02:27:17",
+                "lastUpdate": "2024-10-03 03:00:45"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Southwest European Highlands, W of Oviedo, Spain",
+                "latitude": 43.22,
+                "longitude": -6.91,
+                "created": "2024-10-03 02:27:17",
+                "lastUpdate": "2024-10-03 02:59:59"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tibetan Plateau, SE of Jyekundo, Qinghai, China",
+                "latitude": 32.52,
+                "longitude": 97.99,
+                "created": "2024-10-03 02:27:17",
+                "lastUpdate": "2024-10-03 02:57:51"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Northwest Ethiopian Highlands, SW of Gonder, Amhara, Ethiopia",
+                "latitude": 12.57,
+                "longitude": 37.06,
+                "created": "2024-10-03 02:27:17",
+                "lastUpdate": "2024-10-03 02:57:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Eastern Caucasus, NW of Qabala, Shaki-Zaqatala, Azerbaijan",
+                "latitude": 41.28,
+                "longitude": 47.38,
+                "created": "2024-10-03 02:27:16",
+                "lastUpdate": "2024-10-03 02:56:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, W of At Bashy, Naryn, Kyrgyzstan",
+                "latitude": 40.83,
+                "longitude": 74.34,
+                "created": "2024-10-03 02:27:16",
+                "lastUpdate": "2024-10-03 02:56:01"
+            },
+            {
+                "severity": "WATCH",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Cordillera Occidental, NE of Chincha Alta, Ica, Peru",
+                "latitude": -13.04,
+                "longitude": -76.18,
+                "created": "2024-10-03 02:27:16",
+                "lastUpdate": "2024-10-03 02:55:29"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Tropical Depression - Eleven-E",
+                "latitude": 14.2,
+                "longitude": -96.7,
+                "created": "2024-10-01 20:54:46",
+                "lastUpdate": "2024-10-03 02:54:40"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Maoke Mountains, SE of Nabire, Papua, Indonesia",
+                "latitude": -3.89,
+                "longitude": 135.79,
+                "created": "2024-10-03 02:27:16",
+                "lastUpdate": "2024-10-03 02:54:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CYCLONE",
+                "name": "Tropical Storm - Leslie",
+                "latitude": 10.4,
+                "longitude": -30.1,
+                "created": "2024-10-02 14:43:46",
+                "lastUpdate": "2024-10-03 02:54:12"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - North Sumatra Highlands, SE of Padangsidempuan, Indonesia",
+                "latitude": 0.82,
+                "longitude": 99.51,
+                "created": "2024-10-03 02:27:16",
+                "lastUpdate": "2024-10-03 02:53:44"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Guatemalan Highlands, Coban, Alta Verapaz, Guatemala",
+                "latitude": 15.48,
+                "longitude": -90.17,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:52:57"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Western Asia, N of Gyumri, Shirak, Armenia",
+                "latitude": 41.36,
+                "longitude": 43.99,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:51:51"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CYCLONE",
+                "name": "Hurricane - Kirk",
+                "latitude": 19.5,
+                "longitude": -44.5,
+                "created": "2024-09-29 20:43:01",
+                "lastUpdate": "2024-10-03 02:51:28"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Central Sulawesi Highlands, N of Majene, Indonesia",
+                "latitude": -2.66,
+                "longitude": 118.83,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:50:54"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Northern Andes, Quito, Pichincha, Ecuador",
+                "latitude": -1.81,
+                "longitude": -79.01,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:50:16"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Europe, SW of Graz, Steiermark, Austria",
+                "latitude": 46.22,
+                "longitude": 14.02,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:48:32"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, S of Kara Balta, Ch\u00fcy, Kyrgyzstan",
+                "latitude": 42.43,
+                "longitude": 73.45,
+                "created": "2024-10-03 02:27:15",
+                "lastUpdate": "2024-10-03 02:42:10"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, S of Tokmak, Ch\u00fcy, Kyrgyzstan",
+                "latitude": 42.52,
+                "longitude": 74.84,
+                "created": "2024-10-03 02:27:14",
+                "lastUpdate": "2024-10-03 02:41:37"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Eastern Alps, S of Linz, Ober\u00f6sterreich, Austria",
+                "latitude": 47.67,
+                "longitude": 14.12,
+                "created": "2024-10-03 02:27:14",
+                "lastUpdate": "2024-10-03 02:40:55"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Horn of Africa Highlands, E of Adigrat, Tigray, Ethiopia",
+                "latitude": 14.23,
+                "longitude": 40.72,
+                "created": "2024-10-03 02:27:14",
+                "lastUpdate": "2024-10-03 02:37:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Southwest European Highlands, N of Braganca, Portugal",
+                "latitude": 42.29,
+                "longitude": -6.78,
+                "created": "2024-10-03 02:27:13",
+                "lastUpdate": "2024-10-03 02:37:14"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Tian Shan, SE of Almaty, Almaty, Kazakhstan",
+                "latitude": 43.08,
+                "longitude": 77.37,
+                "created": "2024-10-03 02:27:13",
+                "lastUpdate": "2024-10-03 02:35:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Thai Highlands, NW of Sukhothai, Sukhothai, Thailand",
+                "latitude": 17.47,
+                "longitude": 99.53,
+                "created": "2024-10-03 02:27:13",
+                "lastUpdate": "2024-10-03 02:34:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Chorotega Highlands, SW of Almirante, Bocas del Toro, Panama",
+                "latitude": 9.08,
+                "longitude": -82.69,
+                "created": "2024-10-03 02:27:13",
+                "lastUpdate": "2024-10-03 02:34:11"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Pyrenees, NW of Andorra, Andorra la Vella, Andorra",
+                "latitude": 42.91,
+                "longitude": 0.51,
+                "created": "2024-10-03 02:27:13",
+                "lastUpdate": "2024-10-03 02:33:24"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Honduras Interior Highlands, Santa Barbara, Honduras",
+                "latitude": 15.17,
+                "longitude": -87.99,
+                "created": "2024-10-03 02:27:12",
+                "lastUpdate": "2024-10-03 02:30:24"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Thanon Thong Chai Range, W of Chainat, Chai Nat, Thailand",
+                "latitude": 15.28,
+                "longitude": 99.43,
+                "created": "2024-10-03 02:27:12",
+                "lastUpdate": "2024-10-03 02:29:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Typhoon - Krathon",
+                "latitude": 22.4,
+                "longitude": 120,
+                "created": "2024-09-27 08:41:50",
+                "lastUpdate": "2024-10-03 02:28:22"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.0 - Prince Edward Islands region",
+                "latitude": -46.9021,
+                "longitude": 33.3953,
+                "created": "2024-10-03 02:13:31",
+                "lastUpdate": "2024-10-03 02:22:13"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.0 - Prince Edward Islands region",
+                "latitude": -46.9021,
+                "longitude": 33.3953,
+                "created": "2024-10-03 02:13:24",
+                "lastUpdate": "2024-10-03 02:15:05"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Floods - Southeastern, United States",
+                "latitude": 33.2763,
+                "longitude": -81.1531,
+                "created": "2024-09-25 19:53:41",
+                "lastUpdate": "2024-10-03 01:31:19"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Typhoon - Krathon",
+                "latitude": 22.4,
+                "longitude": 120,
+                "created": "2024-09-27 08:35:50",
+                "lastUpdate": "2024-10-03 01:31:03"
+            },
+            {
+                "severity": "WATCH",
+                "type": "VOLCANO",
+                "name": "Volcano - Ibu, Indonesia",
+                "latitude": 1.488,
+                "longitude": 127.63,
+                "created": "2024-04-24 03:25:20",
+                "lastUpdate": "2024-10-03 01:29:11"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Verkh-Usugli, Chitinskaya, Russia",
+                "latitude": 53.45459464,
+                "longitude": 115.39744494,
+                "created": "2024-10-02 09:25:45",
+                "lastUpdate": "2024-10-03 01:26:55"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Fuego, Guatemala",
+                "latitude": 14.473,
+                "longitude": -90.88,
+                "created": "2023-11-07 22:50:53",
+                "lastUpdate": "2024-10-03 01:25:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Columbia, SC Region, United States",
+                "latitude": 33.8849,
+                "longitude": -80.9866,
+                "created": "2024-10-03 01:19:30",
+                "lastUpdate": "2024-10-03 01:24:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Warner Robins, GA Region, United States",
+                "latitude": 32.358,
+                "longitude": -83.4702,
+                "created": "2024-10-03 01:04:31",
+                "lastUpdate": "2024-10-03 01:07:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Richmond, VA Region, United States",
+                "latitude": 37.484,
+                "longitude": -77.4305,
+                "created": "2024-10-03 00:57:55",
+                "lastUpdate": "2024-10-03 01:05:04"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Charles Town--Ranson, WV Region, United States",
+                "latitude": 39.1211,
+                "longitude": -77.9471,
+                "created": "2024-10-03 00:57:40",
+                "lastUpdate": "2024-10-03 01:02:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Numbulwar Mission, Northern Territory, Australia",
+                "latitude": -14.1387841,
+                "longitude": 136.56077683,
+                "created": "2024-10-02 08:57:52",
+                "lastUpdate": "2024-10-03 01:02:03"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Shelburne, Queensland, Australia",
+                "latitude": -11.4902001,
+                "longitude": 142.32534064,
+                "created": "2024-09-30 16:55:29",
+                "lastUpdate": "2024-10-03 01:01:07"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Lumina, Northern Territory, Australia",
+                "latitude": -16.54605558,
+                "longitude": 136.66869001,
+                "created": "2024-09-30 12:54:11",
+                "lastUpdate": "2024-10-03 01:00:10"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Healy, Queensland, Australia",
+                "latitude": -20.75848988,
+                "longitude": 139.23521526,
+                "created": "2024-09-29 08:49:50",
+                "lastUpdate": "2024-10-03 00:59:13"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Katherine, Northern Territory, Australia",
+                "latitude": -14.94784757,
+                "longitude": 132.1065635,
+                "created": "2024-09-30 12:54:11",
+                "lastUpdate": "2024-10-03 00:58:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Campbell Spring, Northern Territory, Australia",
+                "latitude": -16.45537867,
+                "longitude": 135.76817858,
+                "created": "2024-09-28 08:48:06",
+                "lastUpdate": "2024-10-03 00:57:19"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Aurukun, Queensland, Australia",
+                "latitude": -13.04378532,
+                "longitude": 141.82629054,
+                "created": "2024-10-02 08:57:52",
+                "lastUpdate": "2024-10-03 00:56:19"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Northern Territory, Northern Territory, Australia",
+                "latitude": -20.17687703,
+                "longitude": 134.51802605,
+                "created": "2024-10-02 04:53:21",
+                "lastUpdate": "2024-10-03 00:55:24"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NE of Kununurra, Western Australia, Australia",
+                "latitude": -15.49109523,
+                "longitude": 129.14501812,
+                "created": "2024-09-30 08:52:30",
+                "lastUpdate": "2024-10-03 00:54:29"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Lewotobi, Indonesia",
+                "latitude": -8.542,
+                "longitude": 122.775,
+                "created": "2024-04-28 10:50:22",
+                "lastUpdate": "2024-10-03 00:50:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Valdosta, GA Region, United States",
+                "latitude": 30.9129,
+                "longitude": -83.3258,
+                "created": "2024-10-03 00:32:00",
+                "lastUpdate": "2024-10-03 00:49:37"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Rail Ridge Fire, Oregon, United States",
+                "latitude": 44.32960194,
+                "longitude": -119.67527549,
+                "created": "2024-09-21 16:18:06",
+                "lastUpdate": "2024-10-03 00:31:07"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Black Eagle Fire, Idaho, United States",
+                "latitude": 45.04239573,
+                "longitude": -114.51004194,
+                "created": "2024-10-02 12:22:53",
+                "lastUpdate": "2024-10-03 00:28:04"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Elk Fire, Wyoming, United States",
+                "latitude": 44.89598374,
+                "longitude": -107.44763203,
+                "created": "2024-09-28 20:20:49",
+                "lastUpdate": "2024-10-03 00:27:09"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Salmon, Idaho, United States",
+                "latitude": 45.26870558,
+                "longitude": -114.43373104,
+                "created": "2024-09-28 20:20:49",
+                "lastUpdate": "2024-10-03 00:25:11"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Young Grasshopper Fire, Oregon, United States",
+                "latitude": 43.89251593,
+                "longitude": -122.19928208,
+                "created": "2024-10-01 12:20:37",
+                "lastUpdate": "2024-10-03 00:24:12"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Selfridge, North Dakota, United States",
+                "latitude": 45.94743572,
+                "longitude": -100.84017766,
+                "created": "2024-10-03 00:21:36",
+                "lastUpdate": "2024-10-03 00:23:14"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Villa Angela, Chaco, Argentina",
+                "latitude": -28.20658764,
+                "longitude": -60.32830282,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 00:09:19"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "FLOOD",
+                "name": "Flood - Central America",
+                "latitude": 12.63004,
+                "longitude": -86.74999,
+                "created": "2024-09-18 20:52:44",
+                "lastUpdate": "2024-10-03 00:07:28"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Sao Carlos, S\u00e3o Paulo, Brazil",
+                "latitude": -21.58224559,
+                "longitude": -47.80947409,
+                "created": "2024-09-29 23:13:31",
+                "lastUpdate": "2024-10-03 00:07:26"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Santa Ana, El Beni, Bolivia",
+                "latitude": -14.63599013,
+                "longitude": -65.58099587,
+                "created": "2024-10-01 23:30:17",
+                "lastUpdate": "2024-10-03 00:06:27"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Juan Jose Castelli, Chaco, Argentina",
+                "latitude": -26.10667718,
+                "longitude": -61.04581818,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-03 00:00:39"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Paraguay",
+                "latitude": -25.48567,
+                "longitude": -55.59181,
+                "created": "2024-10-02 23:57:59",
+                "lastUpdate": "2024-10-02 23:59:12"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Balsas, Maranh\u00e3o, Brazil",
+                "latitude": -7.50201874,
+                "longitude": -45.145424,
+                "created": "2024-10-02 19:23:56",
+                "lastUpdate": "2024-10-02 23:47:59"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Uruara, Par\u00e1, Brazil",
+                "latitude": -3.43115555,
+                "longitude": -54.05476252,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:43:04"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Parna do Araguaia, Tocantins, Brazil",
+                "latitude": -10.91056705,
+                "longitude": -50.10695289,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:42:07"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Sena Madureira, Acre, Brazil",
+                "latitude": -9.43923515,
+                "longitude": -68.70214179,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:41:09"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of San Ignacio, Santa Cruz, Bolivia",
+                "latitude": -16.60192629,
+                "longitude": -61.64232029,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:40:13"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Riberalta, El Beni, Bolivia",
+                "latitude": -11.46071722,
+                "longitude": -66.27400646,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:39:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Santa Ana, El Beni, Bolivia",
+                "latitude": -13.21990099,
+                "longitude": -66.29750851,
+                "created": "2024-10-02 23:33:44",
+                "lastUpdate": "2024-10-02 23:38:19"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Costa Rica",
+                "latitude": 10.10433,
+                "longitude": -84.24389,
+                "created": "2024-08-12 20:50:09",
+                "lastUpdate": "2024-10-02 23:38:00"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "FLOOD",
+                "name": "Flood - El Salvador and Honduras",
+                "latitude": 13.75991,
+                "longitude": -88.65166,
+                "created": "2024-09-11 20:12:16",
+                "lastUpdate": "2024-10-02 23:35:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Senhorita, Mato Grosso, Brazil",
+                "latitude": -17.03405358,
+                "longitude": -59.84737657,
+                "created": "2024-10-02 23:33:43",
+                "lastUpdate": "2024-10-02 23:35:30"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "FLOOD",
+                "name": "Flood - Panama",
+                "latitude": 8.29929,
+                "longitude": -81.74107,
+                "created": "2024-10-01 20:15:03",
+                "lastUpdate": "2024-10-02 23:23:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Guatemala",
+                "latitude": 15.1476,
+                "longitude": -90.76571,
+                "created": "2024-09-30 20:45:38",
+                "lastUpdate": "2024-10-02 23:21:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - El Salvador",
+                "latitude": 13.71128,
+                "longitude": -88.96395,
+                "created": "2024-09-30 21:23:19",
+                "lastUpdate": "2024-10-02 23:16:10"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Landslide - Guatemala",
+                "latitude": 15.01371,
+                "longitude": -91.17232,
+                "created": "2024-09-30 20:33:56",
+                "lastUpdate": "2024-10-02 23:04:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "HIGHWIND",
+                "name": "High Wind - Mexico",
+                "latitude": 25.58396,
+                "longitude": -103.75562,
+                "created": "2024-07-25 21:35:18",
+                "lastUpdate": "2024-10-02 22:51:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "STORM",
+                "name": "Storms - Mexico",
+                "latitude": 24.09652,
+                "longitude": -103.14916,
+                "created": "2024-07-16 20:38:57",
+                "lastUpdate": "2024-10-02 22:48:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Heat - Southwestern USA",
+                "latitude": 33.34233,
+                "longitude": -114.85492,
+                "created": "2024-09-26 02:10:03",
+                "lastUpdate": "2024-10-02 22:22:32"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - United Kingdom",
+                "latitude": 52.60128,
+                "longitude": -1.499,
+                "created": "2024-09-30 19:14:40",
+                "lastUpdate": "2024-10-02 22:14:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Corsica, France",
+                "latitude": 41.84425,
+                "longitude": 9.04819,
+                "created": "2024-10-02 22:09:20",
+                "lastUpdate": "2024-10-02 22:10:23"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.2 - 54 km SSW of Sola, Vanuatu",
+                "latitude": -14.3041,
+                "longitude": 167.2944,
+                "created": "2024-10-02 22:04:17",
+                "lastUpdate": "2024-10-02 22:07:12"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Central-eastern Europe",
+                "latitude": 45.76727,
+                "longitude": 14.92588,
+                "created": "2024-10-02 22:00:31",
+                "lastUpdate": "2024-10-02 22:02:37"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.2 - 54 km SSW of Sola, Vanuatu",
+                "latitude": -14.3041,
+                "longitude": 167.2944,
+                "created": "2024-10-02 21:58:24",
+                "lastUpdate": "2024-10-02 22:00:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "HIGHWIND",
+                "name": "High wind - Croatia",
+                "latitude": 44.35746,
+                "longitude": 14.95536,
+                "created": "2024-10-02 21:38:42",
+                "lastUpdate": "2024-10-02 21:39:50"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.9 - 69 km ENE of Panganiban, Philippines",
+                "latitude": 14.2112,
+                "longitude": 124.8534,
+                "created": "2024-10-01 21:40:20",
+                "lastUpdate": "2024-10-02 21:29:39"
+            },
+            {
+                "severity": "WARNING",
+                "type": "HIGHWIND",
+                "name": "High wind - Poland",
+                "latitude": 54.21761,
+                "longitude": 15.06336,
+                "created": "2024-10-02 21:24:32",
+                "lastUpdate": "2024-10-02 21:28:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Northern Territory, Northern Territory, Australia",
+                "latitude": -20.35940585,
+                "longitude": 134.30031258,
+                "created": "2024-10-02 08:57:52",
+                "lastUpdate": "2024-10-02 21:10:15"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Campbell Spring, Northern Territory, Australia",
+                "latitude": -16.48754831,
+                "longitude": 136.23774928,
+                "created": "2024-09-29 16:50:56",
+                "lastUpdate": "2024-10-02 21:01:41"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CYCLONE",
+                "name": "Tropical Cyclone - Ancha",
+                "latitude": -12,
+                "longitude": 73.8,
+                "created": "2024-10-01 19:31:01",
+                "lastUpdate": "2024-10-02 20:56:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CYCLONE",
+                "name": "Tropical Cyclone - Ancha",
+                "latitude": -12,
+                "longitude": 73.8,
+                "created": "2024-10-01 19:27:30",
+                "lastUpdate": "2024-10-02 20:49:52"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "CYCLONE",
+                "name": "Tropical Storm - Jebi",
+                "latitude": 44.9,
+                "longitude": 152.5,
+                "created": "2024-09-26 15:26:38",
+                "lastUpdate": "2024-10-02 20:49:50"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Damascus, Syria",
+                "latitude": 33.5102,
+                "longitude": 36.29128,
+                "created": "2024-10-02 20:43:11",
+                "lastUpdate": "2024-10-02 20:44:40"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Damascus, Syria",
+                "latitude": 33.51,
+                "longitude": 36.291,
+                "created": "2024-10-02 20:40:00",
+                "lastUpdate": "2024-10-02 20:44:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NW of Pembroke, Ontario and Qu\u00e9bec, Canada",
+                "latitude": 46.95,
+                "longitude": -78.35,
+                "created": "2024-10-01 03:08:26",
+                "lastUpdate": "2024-10-02 20:29:01"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Coco Basin, Honduras and Nicaragua",
+                "latitude": 13.95,
+                "longitude": -84.08,
+                "created": "2024-09-29 03:09:18",
+                "lastUpdate": "2024-10-02 20:28:35"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Yellow Lake Fire, Utah, United States",
+                "latitude": 40.48712063,
+                "longitude": -111.05515193,
+                "created": "2024-09-29 20:20:24",
+                "lastUpdate": "2024-10-02 20:28:13"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Merin Basin, Argentina, Brazil and Uruguay",
+                "latitude": -30.18,
+                "longitude": -57.65,
+                "created": "2024-09-29 03:09:18",
+                "lastUpdate": "2024-10-02 20:28:09"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Dolores, Buenos Aires, Argentina",
+                "latitude": -36.06,
+                "longitude": -57.4,
+                "created": "2024-09-25 03:14:23",
+                "lastUpdate": "2024-10-02 20:27:40"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Parnaiba, Piau\u00ed, Brazil",
+                "latitude": -2.93,
+                "longitude": -42.22,
+                "created": "2024-09-13 03:10:14",
+                "lastUpdate": "2024-10-02 20:27:16"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Tucupita, Delta Amacuro, Venezuela",
+                "latitude": 9.28,
+                "longitude": -61.48,
+                "created": "2024-08-02 03:07:15",
+                "lastUpdate": "2024-10-02 20:26:52"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Vam Co Basin, N of Vam Co River, Cambodia, Laos and Vietnam",
+                "latitude": 11.16,
+                "longitude": 106.05,
+                "created": "2024-09-27 03:10:35",
+                "lastUpdate": "2024-10-02 20:24:33"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Chennai, Tamil Nadu, India",
+                "latitude": 13.66,
+                "longitude": 79.74,
+                "created": "2024-10-01 03:08:22",
+                "lastUpdate": "2024-10-02 20:24:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Karachi, Sind, Pakistan",
+                "latitude": 24.35,
+                "longitude": 67.5,
+                "created": "2024-09-03 03:08:42",
+                "lastUpdate": "2024-10-02 20:23:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Chao Phraya Basin, South-eastern Asia, Cambodia, Laos, Myanmar, Thailand and Vietnam",
+                "latitude": 14.47,
+                "longitude": 99.93,
+                "created": "2024-09-23 03:11:15",
+                "lastUpdate": "2024-10-02 20:23:16"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Yellow River Basin, China",
+                "latitude": 37.75,
+                "longitude": 118.33,
+                "created": "2024-08-26 03:09:46",
+                "lastUpdate": "2024-10-02 20:22:45"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Aksu, Xinjiang Uygur, China",
+                "latitude": 40.5,
+                "longitude": 80.95,
+                "created": "2024-09-19 03:12:20",
+                "lastUpdate": "2024-10-02 20:22:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Amur Basin, China and Russia",
+                "latitude": 44.6,
+                "longitude": 132.22,
+                "created": "2024-05-06 03:07:01",
+                "lastUpdate": "2024-10-02 20:21:53"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Gwadar, Baluchistan, Pakistan",
+                "latitude": 25.22,
+                "longitude": 61.6,
+                "created": "2024-09-09 03:08:07",
+                "lastUpdate": "2024-10-02 20:21:25"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Niger Basin, Niger, Bagoe and Bani Rivers, Burkina Faso and Mali",
+                "latitude": 13.73,
+                "longitude": -5.18,
+                "created": "2024-09-05 20:13:14",
+                "lastUpdate": "2024-10-02 20:21:02"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Boke, Bok\u00e9, Guinea",
+                "latitude": 11.36,
+                "longitude": -15.07,
+                "created": "2024-09-15 03:10:57",
+                "lastUpdate": "2024-10-02 20:20:33"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "LANDSLIDE",
+                "name": "Landslides - Kathmandu, Nepal",
+                "latitude": 27.72159,
+                "longitude": 85.25323,
+                "created": "2024-09-30 17:37:46",
+                "lastUpdate": "2024-10-02 20:20:08"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Lake Turkana Basin, Eastern Africa, Ethiopia, Kenya, South Sudan and Tanzania",
+                "latitude": 3.13,
+                "longitude": 36.18,
+                "created": "2024-08-24 03:08:41",
+                "lastUpdate": "2024-10-02 20:19:59"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Nile Basin, Egypt",
+                "latitude": 30.82,
+                "longitude": 31.33,
+                "created": "2024-07-29 03:06:17",
+                "lastUpdate": "2024-10-02 20:19:31"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Volta Basin, Western Africa, Burkina Faso, C\u00f4te dIvoire, Ghana and Mali",
+                "latitude": 13.3,
+                "longitude": -3.78,
+                "created": "2024-09-30 20:09:09",
+                "lastUpdate": "2024-10-02 20:19:05"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Abhe Bad Basin, Eastern Africa, Djibouti, Eritrea, Ethiopia and Somalia",
+                "latitude": 12.84,
+                "longitude": 42.45,
+                "created": "2024-08-24 03:08:42",
+                "lastUpdate": "2024-10-02 20:18:36"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Senegal Basin, NE of Senegal River, Mali, Mauritania and Senegal",
+                "latitude": 16.65,
+                "longitude": -14.07,
+                "created": "2024-09-04 20:10:37",
+                "lastUpdate": "2024-10-02 20:18:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Nouakchott, Nouakchott, Mauritania",
+                "latitude": 17.67,
+                "longitude": -15.86,
+                "created": "2024-09-13 03:09:35",
+                "lastUpdate": "2024-10-02 20:17:39"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Nile Basin, Middle Africa, Central African Republic, Dem Rep of the Congo, Eastern Africa, E",
+                "latitude": 9.35,
+                "longitude": 30.74,
+                "created": "2024-06-04 20:12:34",
+                "lastUpdate": "2024-10-02 20:17:15"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Biltine, Wadi Fira, Chad",
+                "latitude": 15.05,
+                "longitude": 19.77,
+                "created": "2024-09-28 20:12:09",
+                "lastUpdate": "2024-10-02 20:14:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Lazaro Cardenas, Michoac\u00e1n, Mexico",
+                "latitude": 18.3,
+                "longitude": -101.86,
+                "created": "2024-10-02 20:11:14",
+                "lastUpdate": "2024-10-02 20:13:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Verde Basin, Guatemala and Mexico",
+                "latitude": 15.98,
+                "longitude": -96.61,
+                "created": "2024-10-02 20:11:14",
+                "lastUpdate": "2024-10-02 20:13:30"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Po Basin, Italy and Vatican City",
+                "latitude": 42.57,
+                "longitude": 12.73,
+                "created": "2024-10-02 20:11:04",
+                "lastUpdate": "2024-10-02 20:12:56"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Benin City, Bayelsa, Delta and Edo, Nigeria",
+                "latitude": 5.53,
+                "longitude": 5.88,
+                "created": "2024-10-02 20:10:09",
+                "lastUpdate": "2024-10-02 20:12:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Balsas, Maranh\u00e3o, Brazil",
+                "latitude": -8.77278981,
+                "longitude": -45.1461782,
+                "created": "2024-09-28 23:11:52",
+                "lastUpdate": "2024-10-02 19:32:36"
+            },
+            {
+                "severity": "WARNING",
+                "type": "HIGHWIND",
+                "name": "High Wind - Ivugivik, Qu\u00e9bec, Canada",
+                "latitude": 61.86,
+                "longitude": -75.88,
+                "created": "2024-09-29 19:25:25",
+                "lastUpdate": "2024-10-02 19:29:50"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.5 - southern Mid-Atlantic Ridge",
+                "latitude": -46.834,
+                "longitude": -10.5397,
+                "created": "2024-10-02 01:25:28",
+                "lastUpdate": "2024-10-02 19:25:22"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Maun, North-West, Botswana",
+                "latitude": -20.03243381,
+                "longitude": 24.24757061,
+                "created": "2024-10-01 18:53:41",
+                "lastUpdate": "2024-10-02 18:42:34"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Cuangar, Kavango, Namibia",
+                "latitude": -16.74179281,
+                "longitude": 18.76637541,
+                "created": "2024-10-02 18:39:59",
+                "lastUpdate": "2024-10-02 18:41:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Rocket Attack) - Galilee, Israel",
+                "latitude": 32.9065408,
+                "longitude": 35.3960605,
+                "created": "2024-10-02 17:48:09",
+                "lastUpdate": "2024-10-02 17:49:42"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Rocket Attack) - Galilee, Israel",
+                "latitude": 32.907,
+                "longitude": 35.396,
+                "created": "2024-10-02 17:45:00",
+                "lastUpdate": "2024-10-02 17:49:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Kherson, Ukraine",
+                "latitude": 46.6504525,
+                "longitude": 32.6081774,
+                "created": "2024-10-02 17:45:12",
+                "lastUpdate": "2024-10-02 17:46:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Kherson, Ukraine",
+                "latitude": 46.65,
+                "longitude": 32.608,
+                "created": "2024-10-02 17:43:00",
+                "lastUpdate": "2024-10-02 17:46:23"
+            },
+            {
+                "severity": "WARNING",
+                "type": "SEVEREWEATHER",
+                "name": "Severe Weather - South Island, New Zealand",
+                "latitude": -37.94295,
+                "longitude": 176.38828,
+                "created": "2024-10-01 20:45:44",
+                "lastUpdate": "2024-10-02 17:40:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "SEVEREWEATHER",
+                "name": "Severe Weather - India",
+                "latitude": 26.38972,
+                "longitude": 92.42783,
+                "created": "2024-04-09 19:29:44",
+                "lastUpdate": "2024-10-02 17:37:02"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "FLOOD",
+                "name": "Floods - Southern Iran",
+                "latitude": 30.21451,
+                "longitude": 57.04681,
+                "created": "2024-10-02 17:34:01",
+                "lastUpdate": "2024-10-02 17:34:52"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "LANDSLIDE",
+                "name": "Landslides - Northern Vietnam",
+                "latitude": 22.60257,
+                "longitude": 104.74595,
+                "created": "2024-10-02 17:31:47",
+                "lastUpdate": "2024-10-02 17:33:03"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Hurricane Helene (Response Support)",
+                "latitude": 36.6,
+                "longitude": -87.4,
+                "created": "2024-09-23 15:00:01",
+                "lastUpdate": "2024-10-02 16:47:00"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Phayao, Phayao, Thailand",
+                "latitude": 19.45,
+                "longitude": 100.1,
+                "created": "2024-09-30 03:09:42",
+                "lastUpdate": "2024-10-02 16:29:40"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Crescent Lake,Oregon, United States",
+                "latitude": 43.50082213,
+                "longitude": -122.03526815,
+                "created": "2024-10-02 16:23:10",
+                "lastUpdate": "2024-10-02 16:24:47"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "ACCIDENT",
+                "name": "Accident - Mokwa, Nigeria",
+                "latitude": 9.27220797,
+                "longitude": 5.05417274,
+                "created": "2024-10-02 15:28:10",
+                "lastUpdate": "2024-10-02 15:29:22"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Trubchevsk, Bryanskaya, Russia",
+                "latitude": 52.55099373,
+                "longitude": 33.72377813,
+                "created": "2024-10-02 03:26:13",
+                "lastUpdate": "2024-10-02 15:29:20"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "ACCIDENT",
+                "name": "Accident (Large Accident) - Mokwa, Nigeria",
+                "latitude": 9.272,
+                "longitude": 5.054,
+                "created": "2024-10-02 14:37:00",
+                "lastUpdate": "2024-10-02 15:29:16"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Clash) - Dan Ali, Nigeria",
+                "latitude": 12.1345936,
+                "longitude": 7.5267491,
+                "created": "2024-10-02 15:26:10",
+                "lastUpdate": "2024-10-02 15:27:25"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Clash) - Dan Ali, Nigeria",
+                "latitude": 12.135,
+                "longitude": 7.527,
+                "created": "2024-10-02 15:19:00",
+                "lastUpdate": "2024-10-02 15:27:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Agatu, Nigeria",
+                "latitude": 7.857,
+                "longitude": 7.931,
+                "created": "2024-10-02 15:12:00",
+                "lastUpdate": "2024-10-02 15:21:15"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Agatu, Nigeria",
+                "latitude": 7.85664955,
+                "longitude": 7.93109677,
+                "created": "2024-10-02 15:20:10",
+                "lastUpdate": "2024-10-02 15:21:14"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Piso Firme, Santa Cruz, Bolivia",
+                "latitude": -15.15533083,
+                "longitude": -62.96797072,
+                "created": "2024-10-02 03:11:26",
+                "lastUpdate": "2024-10-02 15:20:32"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kherson, Ukraine",
+                "latitude": 46.6504525,
+                "longitude": 32.6081774,
+                "created": "2024-10-02 14:56:09",
+                "lastUpdate": "2024-10-02 14:57:43"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kherson, Ukraine",
+                "latitude": 46.65,
+                "longitude": 32.608,
+                "created": "2024-10-02 14:53:00",
+                "lastUpdate": "2024-10-02 14:56:20"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Bint Jbeil, Lebanon",
+                "latitude": 33.15964,
+                "longitude": 35.41137,
+                "created": "2024-10-02 14:49:08",
+                "lastUpdate": "2024-10-02 14:51:25"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Bint Jbeil, Lebanon",
+                "latitude": 33.16,
+                "longitude": 35.411,
+                "created": "2024-10-02 14:46:00",
+                "lastUpdate": "2024-10-02 14:50:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Clash) - Sailkot, Pakistan",
+                "latitude": 32.493,
+                "longitude": 74.531,
+                "created": "2024-10-02 14:06:00",
+                "lastUpdate": "2024-10-02 14:43:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Clash) - Sailkot, Pakistan",
+                "latitude": 32.49268,
+                "longitude": 74.53134,
+                "created": "2024-10-02 14:38:09",
+                "lastUpdate": "2024-10-02 14:42:23"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Tunduru, Ruvuma, Tanzania",
+                "latitude": -11.98708516,
+                "longitude": 36.66164565,
+                "created": "2024-10-01 14:46:55",
+                "lastUpdate": "2024-10-02 14:35:34"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Explosive Device) - Turbat, Pakistan",
+                "latitude": 25.9995873,
+                "longitude": 63.0670381,
+                "created": "2024-10-02 14:07:10",
+                "lastUpdate": "2024-10-02 14:08:39"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Explosive Device) - Turbat, Pakistan",
+                "latitude": 26,
+                "longitude": 63.067,
+                "created": "2024-10-02 13:57:00",
+                "lastUpdate": "2024-10-02 14:08:22"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Okkan, Myanmar",
+                "latitude": 23.666,
+                "longitude": 95.435,
+                "created": "2024-10-02 13:52:00",
+                "lastUpdate": "2024-10-02 13:58:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Hsipaw, Myanmar",
+                "latitude": 22.615,
+                "longitude": 97.3,
+                "created": "2024-10-02 13:45:00",
+                "lastUpdate": "2024-10-02 13:54:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Assault) - Deir Ezzor, Syria",
+                "latitude": 35.33588,
+                "longitude": 40.14084,
+                "created": "2024-10-02 13:10:10",
+                "lastUpdate": "2024-10-02 13:11:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Assault) - Deir Ezzor, Syria",
+                "latitude": 35.336,
+                "longitude": 40.141,
+                "created": "2024-10-02 13:05:00",
+                "lastUpdate": "2024-10-02 13:10:27"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Landmine) - Deir Ezzor, Syria",
+                "latitude": 34.45226,
+                "longitude": 40.91854,
+                "created": "2024-10-02 13:05:10",
+                "lastUpdate": "2024-10-02 13:07:13"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Landmine) - Deir Ezzor, Syria",
+                "latitude": 34.452,
+                "longitude": 40.919,
+                "created": "2024-10-02 13:00:00",
+                "lastUpdate": "2024-10-02 13:06:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Line Fire, California, United States",
+                "latitude": 34.1746582,
+                "longitude": -116.96744005,
+                "created": "2024-09-30 00:19:14",
+                "lastUpdate": "2024-10-02 12:29:23"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Missile) - Kawkaba, Lebanon",
+                "latitude": 33.5289857,
+                "longitude": 35.779206,
+                "created": "2024-10-02 12:25:09",
+                "lastUpdate": "2024-10-02 12:26:20"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Missile) - Kawkaba, Lebanon",
+                "latitude": 33.529,
+                "longitude": 35.779,
+                "created": "2024-10-02 12:22:00",
+                "lastUpdate": "2024-10-02 12:26:17"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Khan Younis, Gaza Strip",
+                "latitude": 31.34018,
+                "longitude": 34.30627,
+                "created": "2024-10-02 12:19:12",
+                "lastUpdate": "2024-10-02 12:21:04"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Khan Younis, Gaza Strip",
+                "latitude": 31.34,
+                "longitude": 34.306,
+                "created": "2024-10-02 12:15:00",
+                "lastUpdate": "2024-10-02 12:20:28"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "ACCIDENT",
+                "name": "Accident - Saravan, Iran",
+                "latitude": 27.41926,
+                "longitude": 62.31579,
+                "created": "2024-10-02 12:08:13",
+                "lastUpdate": "2024-10-02 12:09:49"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "ACCIDENT",
+                "name": "Accident (Large Accident) - Saravan, Iran",
+                "latitude": 27.419,
+                "longitude": 62.316,
+                "created": "2024-10-02 11:58:00",
+                "lastUpdate": "2024-10-02 12:09:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.04714678,
+                "longitude": 37.67405764,
+                "created": "2024-10-02 11:52:12",
+                "lastUpdate": "2024-10-02 11:53:34"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.047,
+                "longitude": 37.674,
+                "created": "2024-10-02 11:49:00",
+                "lastUpdate": "2024-10-02 11:53:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Derhachi, Ukraine",
+                "latitude": 50.108,
+                "longitude": 36.121,
+                "created": "2024-10-02 11:37:00",
+                "lastUpdate": "2024-10-02 11:41:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Derhachi, Ukraine",
+                "latitude": 50.107909,
+                "longitude": 36.120892,
+                "created": "2024-10-02 11:40:12",
+                "lastUpdate": "2024-10-02 11:40:57"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Ascension, Santa Cruz, Bolivia",
+                "latitude": -15.76765127,
+                "longitude": -63.00541736,
+                "created": "2024-10-02 03:11:27",
+                "lastUpdate": "2024-10-02 11:39:02"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Izmail, Ukraine",
+                "latitude": 45.3519986,
+                "longitude": 28.8367565,
+                "created": "2024-10-02 11:35:11",
+                "lastUpdate": "2024-10-02 11:36:59"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Izmail, Ukraine",
+                "latitude": 45.352,
+                "longitude": 28.837,
+                "created": "2024-10-02 11:32:00",
+                "lastUpdate": "2024-10-02 11:36:21"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Ururoses, Rondonia, Brazil",
+                "latitude": -12.86825266,
+                "longitude": -62.53779378,
+                "created": "2024-10-03 03:21:16",
+                "lastUpdate": "2024-10-03 03:25:55"
+            },
+            {
+                "severity": "WATCH",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Baures, El Beni, Bolivia",
+                "latitude": -14.36197737,
+                "longitude": -63.04924686,
+                "created": "2024-09-21 00:06:58",
+                "lastUpdate": "2024-10-02 11:33:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Rodrigues Alves, Rondonia, Brazil",
+                "latitude": -12.23370088,
+                "longitude": -65.81527443,
+                "created": "2024-09-30 11:02:21",
+                "lastUpdate": "2024-10-02 11:32:16"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Piso Firme, Santa Cruz, Bolivia",
+                "latitude": -15.15533083,
+                "longitude": -62.96797072,
+                "created": "2024-09-30 11:02:21",
+                "lastUpdate": "2024-10-02 11:21:34"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Gaza City, Gaza Strip",
+                "latitude": 31.50161,
+                "longitude": 34.46672,
+                "created": "2024-10-02 11:18:10",
+                "lastUpdate": "2024-10-02 11:19:35"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Gaza City, Gaza Strip",
+                "latitude": 31.502,
+                "longitude": 34.467,
+                "created": "2024-10-02 11:13:00",
+                "lastUpdate": "2024-10-02 11:18:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Khash, Iran",
+                "latitude": 28.2232454,
+                "longitude": 61.2112582,
+                "created": "2024-10-02 10:20:11",
+                "lastUpdate": "2024-10-02 10:22:11"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Khash, Iran",
+                "latitude": 28.223,
+                "longitude": 61.211,
+                "created": "2024-10-02 10:09:00",
+                "lastUpdate": "2024-10-02 10:20:32"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Ngoshe, Nigeria",
+                "latitude": 11.0706694,
+                "longitude": 13.8003342,
+                "created": "2024-10-02 10:10:12",
+                "lastUpdate": "2024-10-02 10:11:59"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Ngoshe, Nigeria",
+                "latitude": 11.071,
+                "longitude": 13.8,
+                "created": "2024-10-02 10:00:00",
+                "lastUpdate": "2024-10-02 10:11:16"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Tropical Storm - Jebi",
+                "latitude": 44.9,
+                "longitude": 152.5,
+                "created": "2024-09-26 14:25:58",
+                "lastUpdate": "2024-10-02 09:48:27"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 6.1 - 262 km ESE of Baubau, Indonesia",
+                "latitude": -5.9971,
+                "longitude": 124.9161,
+                "created": "2024-10-01 09:44:18",
+                "lastUpdate": "2024-10-02 09:33:57"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Lurella Spring, Northern Territory, Australia",
+                "latitude": -15.59090588,
+                "longitude": 136.12330151,
+                "created": "2024-10-01 08:59:09",
+                "lastUpdate": "2024-10-02 09:09:10"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Corella, Northern Territory, Australia",
+                "latitude": -17.64166524,
+                "longitude": 135.15948398,
+                "created": "2024-09-30 08:52:30",
+                "lastUpdate": "2024-10-02 09:07:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Doomadgee, Queensland, Australia",
+                "latitude": -17.75441612,
+                "longitude": 138.67542423,
+                "created": "2024-10-01 08:59:08",
+                "lastUpdate": "2024-10-02 09:04:23"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Gapuwiyak, Northern Territory, Australia",
+                "latitude": -12.32477702,
+                "longitude": 135.48409172,
+                "created": "2024-10-02 08:57:52",
+                "lastUpdate": "2024-10-02 09:02:28"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Reventador, Ecuador",
+                "latitude": -0.077,
+                "longitude": -77.656,
+                "created": "2024-07-27 22:31:23",
+                "lastUpdate": "2024-10-02 04:31:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Guaiba, Para, Brazil",
+                "latitude": -2.87800381,
+                "longitude": -50.74398819,
+                "created": "2024-09-30 23:24:51",
+                "lastUpdate": "2024-10-02 03:38:37"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Xyl\u00f3kastro, Peloponnisos, Greece",
+                "latitude": 38.07606498,
+                "longitude": 22.45364897,
+                "created": "2024-09-29 23:25:21",
+                "lastUpdate": "2024-10-02 03:31:41"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Suz\u00ebmka, Bryanskaya, Russia",
+                "latitude": 52.01289196,
+                "longitude": 34.06258726,
+                "created": "2024-10-02 03:26:13",
+                "lastUpdate": "2024-10-02 03:29:43"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SW of Tapera Rivani, Mato Grosso, Brazil",
+                "latitude": -14.83289443,
+                "longitude": -58.20372065,
+                "created": "2024-10-01 23:30:16",
+                "lastUpdate": "2024-10-02 03:27:52"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SW of Conceicao do Araguaia, Par\u00e1, Brazil",
+                "latitude": -9.91,
+                "longitude": -50.36,
+                "created": "2024-10-02 03:12:45",
+                "lastUpdate": "2024-10-02 03:25:21"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Karumba, Queensland, Australia",
+                "latitude": -17.5,
+                "longitude": 140.77,
+                "created": "2024-10-02 03:12:43",
+                "lastUpdate": "2024-10-02 03:24:52"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Viana, Maranh\u00e3o, Brazil",
+                "latitude": -3.07,
+                "longitude": -44.82,
+                "created": "2024-08-17 03:11:49",
+                "lastUpdate": "2024-10-02 03:24:18"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Mango, Savanes, Togo",
+                "latitude": 10.09,
+                "longitude": 0.43,
+                "created": "2024-10-02 03:12:39",
+                "lastUpdate": "2024-10-02 03:23:48"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Moosonee, Ontario and Qu\u00e9bec, Canada",
+                "latitude": 50.56,
+                "longitude": -80.87,
+                "created": "2024-09-28 03:09:45",
+                "lastUpdate": "2024-10-02 03:23:19"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Tamale, Northern, Ghana",
+                "latitude": 8.16,
+                "longitude": -0.41,
+                "created": "2024-10-02 03:12:37",
+                "lastUpdate": "2024-10-02 03:22:44"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Mahakam Basin, Indonesia",
+                "latitude": -2.74,
+                "longitude": 121.37,
+                "created": "2024-08-31 03:10:01",
+                "lastUpdate": "2024-10-02 03:22:13"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Congo Basin, Dem Rep of the Congo and Zambia",
+                "latitude": -11.45,
+                "longitude": 30.13,
+                "created": "2024-09-14 03:12:03",
+                "lastUpdate": "2024-10-02 03:21:38"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Rufiji Basin, Rufiji, Luwegu and Kilombero Rivers, Tanzania",
+                "latitude": -8.34,
+                "longitude": 37.59,
+                "created": "2024-09-14 03:11:51",
+                "lastUpdate": "2024-10-02 03:21:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Niger Basin, SE of Benue River, Nigeria",
+                "latitude": 9.2,
+                "longitude": 11.33,
+                "created": "2024-09-14 03:12:01",
+                "lastUpdate": "2024-10-02 03:20:32"
+            },
+            {
+                "severity": "WATCH",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Bananal, Mato Grosso, Brazil",
+                "latitude": -16.72688907,
+                "longitude": -55.92268729,
+                "created": "2024-09-29 23:13:30",
+                "lastUpdate": "2024-10-02 03:20:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Saint-Laurent-du-Maroni, Saint-Laurent-du-Maroni, France",
+                "latitude": 5.68,
+                "longitude": -53.92,
+                "created": "2024-10-02 03:12:34",
+                "lastUpdate": "2024-10-02 03:19:57"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Kilindoni, Pwani, Tanzania",
+                "latitude": -8.36,
+                "longitude": 39.18,
+                "created": "2024-10-02 03:12:34",
+                "lastUpdate": "2024-10-02 03:19:25"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Havana, Ciudad de la Habana, Cuba",
+                "latitude": 22.52,
+                "longitude": -83.6,
+                "created": "2024-10-02 03:12:33",
+                "lastUpdate": "2024-10-02 03:18:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NW of Pati, Jawa Tengah, Indonesia",
+                "latitude": -5.83,
+                "longitude": 110.46,
+                "created": "2024-10-02 03:12:33",
+                "lastUpdate": "2024-10-02 03:18:06"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Nabire, Papua, Indonesia",
+                "latitude": -6.15,
+                "longitude": 134.43,
+                "created": "2024-10-02 03:12:33",
+                "lastUpdate": "2024-10-02 03:17:35"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SW of Zamboanga, Zamboanga del Sur, Philippines",
+                "latitude": 6.58,
+                "longitude": 122.04,
+                "created": "2024-10-02 03:12:32",
+                "lastUpdate": "2024-10-02 03:17:00"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Darwin, Northern Territory, Australia",
+                "latitude": -11.55,
+                "longitude": 130.97,
+                "created": "2024-10-02 03:12:31",
+                "lastUpdate": "2024-10-02 03:16:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Merauke, Papua, Indonesia",
+                "latitude": -5.71,
+                "longitude": 141.34,
+                "created": "2024-10-02 03:12:30",
+                "lastUpdate": "2024-10-02 03:15:50"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Pala, Mayo-Kebbi Ouest, Chad",
+                "latitude": 9.61,
+                "longitude": 14.89,
+                "created": "2024-10-02 03:12:25",
+                "lastUpdate": "2024-10-02 03:15:15"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Douala, Littoral, Cameroon",
+                "latitude": 4.08,
+                "longitude": 9.62,
+                "created": "2024-10-02 03:12:20",
+                "lastUpdate": "2024-10-02 03:14:42"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Edirne, Edirne, Turkey",
+                "latitude": 41.66,
+                "longitude": 26.51,
+                "created": "2024-09-28 03:09:41",
+                "lastUpdate": "2024-10-02 03:14:03"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Luchenza, Southern, Malawi",
+                "latitude": -16.59647137,
+                "longitude": 36.26000815,
+                "created": "2024-10-01 14:46:55",
+                "lastUpdate": "2024-10-02 02:31:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Mutuali, Nampula, Mozambique",
+                "latitude": -16.04308588,
+                "longitude": 36.68937701,
+                "created": "2024-10-02 02:28:51",
+                "lastUpdate": "2024-10-02 02:30:29"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Sangay, Ecuador",
+                "latitude": -2.005,
+                "longitude": -78.341,
+                "created": "2024-07-09 15:20:52",
+                "lastUpdate": "2024-10-02 01:48:21"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Tambo, Queensland, Australia",
+                "latitude": -24.9741934,
+                "longitude": 147.41521955,
+                "created": "2024-09-30 20:57:02",
+                "lastUpdate": "2024-10-02 00:57:55"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Commissary Fire, Idaho, United States",
+                "latitude": 43.28657239,
+                "longitude": -111.43250032,
+                "created": "2024-10-02 00:27:52",
+                "lastUpdate": "2024-10-02 00:30:30"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Three Rivers, Oregon, United States",
+                "latitude": 43.89263695,
+                "longitude": -121.70512996,
+                "created": "2024-10-02 00:27:51",
+                "lastUpdate": "2024-10-02 00:29:30"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Ingeniero Guillermo N. Juarez, Formosa, Argentina",
+                "latitude": -23.92208745,
+                "longitude": -61.4692144,
+                "created": "2024-10-01 07:12:58",
+                "lastUpdate": "2024-10-02 00:14:53"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Anatuya, Santiago del Estero, Argentina",
+                "latitude": -28.54243889,
+                "longitude": -62.37543903,
+                "created": "2024-09-30 23:24:51",
+                "lastUpdate": "2024-10-02 00:10:52"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Barreira do Pequi, Tocantins, Brazil",
+                "latitude": -12.03760478,
+                "longitude": -50.10747863,
+                "created": "2024-09-30 23:24:51",
+                "lastUpdate": "2024-10-02 00:04:07"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Villa Carlos Paz, C\u00f3rdoba, Argentina",
+                "latitude": -31.310437,
+                "longitude": -65.40092143,
+                "created": "2024-09-30 15:04:14",
+                "lastUpdate": "2024-10-02 00:00:14"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - SE of Comandante Fontana, Formosa, Argentina",
+                "latitude": -25.5982966,
+                "longitude": -59.44587253,
+                "created": "2024-09-30 23:24:52",
+                "lastUpdate": "2024-10-01 23:57:23"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Boa Vista, Mato Grosso, Brazil",
+                "latitude": -16.97295114,
+                "longitude": -57.97678102,
+                "created": "2024-09-28 23:11:53",
+                "lastUpdate": "2024-10-01 23:55:27"
+            },
+            {
+                "severity": "WARNING",
+                "type": "WILDFIRE",
+                "name": "Wildfire - W of Ascension, Santa Cruz, Bolivia",
+                "latitude": -15.09576634,
+                "longitude": -62.84734674,
+                "created": "2024-10-01 19:18:32",
+                "lastUpdate": "2024-10-01 23:42:48"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Las Lomitas, Formosa, Argentina",
+                "latitude": -24.98943182,
+                "longitude": -60.68942993,
+                "created": "2024-10-01 23:30:17",
+                "lastUpdate": "2024-10-01 23:37:56"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - E of Bernardo Dias, Mato Grosso, Brazil",
+                "latitude": -15.67983195,
+                "longitude": -57.43603251,
+                "created": "2024-10-01 23:30:17",
+                "lastUpdate": "2024-10-01 23:37:00"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - NW of Trinidad, El Beni, Bolivia",
+                "latitude": -14.61230429,
+                "longitude": -65.19345988,
+                "created": "2024-10-01 23:30:16",
+                "lastUpdate": "2024-10-01 23:35:04"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - N of Pampa del Infierno, Chaco, Argentina",
+                "latitude": -26.12851977,
+                "longitude": -61.1203134,
+                "created": "2024-10-01 23:30:16",
+                "lastUpdate": "2024-10-01 23:32:11"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 6.6 - 154 km ESE of Neiafu, Tonga",
+                "latitude": -19.3448,
+                "longitude": -172.7124,
+                "created": "2024-10-01 20:12:36",
+                "lastUpdate": "2024-10-01 23:25:21"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 5.9 - 69 km ENE of Panganiban, Philippines",
+                "latitude": 14.2112,
+                "longitude": 124.8534,
+                "created": "2024-10-01 21:39:40",
+                "lastUpdate": "2024-10-01 23:23:57"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "WILDFIRE",
+                "name": "Wildfire - S of Peawanuck Airport, Ontario, Canada",
+                "latitude": 53.74285525,
+                "longitude": -84.83776008,
+                "created": "2024-09-30 19:14:51",
+                "lastUpdate": "2024-10-01 23:16:31"
+            },
+            {
+                "severity": "WARNING",
+                "type": "CYCLONE",
+                "name": "Typhoon - Yagi (Response Support)",
+                "latitude": 21,
+                "longitude": 106.9,
+                "created": "2024-09-01 15:30:56",
+                "lastUpdate": "2024-10-01 21:24:00"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Peru",
+                "latitude": -7.09944,
+                "longitude": -77.85403,
+                "created": "2024-09-30 21:57:38",
+                "lastUpdate": "2024-10-01 21:10:33"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Temperature - Peru",
+                "latitude": -9.5371,
+                "longitude": -73.99021,
+                "created": "2024-10-01 21:07:01",
+                "lastUpdate": "2024-10-01 21:08:50"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "DROUGHT",
+                "name": "Drought - Columbia",
+                "latitude": -1.36208,
+                "longitude": -71.52927,
+                "created": "2024-10-01 20:49:50",
+                "lastUpdate": "2024-10-01 20:52:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Pakchan Basin, N of Pakchan River, Myanmar, Malaysia and Thailand",
+                "latitude": 12.2,
+                "longitude": 98.67,
+                "created": "2024-09-28 03:09:52",
+                "lastUpdate": "2024-10-01 20:41:55"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NW of Ati, Batha, Chad",
+                "latitude": 14.54,
+                "longitude": 16.94,
+                "created": "2024-09-15 20:11:42",
+                "lastUpdate": "2024-10-01 20:41:03"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Zomba, Zomba, Malawi",
+                "latitude": -15.43,
+                "longitude": 35.7,
+                "created": "2024-07-11 20:11:20",
+                "lastUpdate": "2024-10-01 20:40:31"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Geraldton, Ontario, Canada",
+                "latitude": 48.7,
+                "longitude": -87.42,
+                "created": "2024-09-28 03:09:55",
+                "lastUpdate": "2024-10-01 20:39:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Geraldton, Ontario, Canada",
+                "latitude": 49.76,
+                "longitude": -85.68,
+                "created": "2024-09-30 03:09:37",
+                "lastUpdate": "2024-10-01 20:39:26"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Dryden, Manitoba and Ontario, Canada",
+                "latitude": 49.97,
+                "longitude": -95.58,
+                "created": "2024-09-28 03:09:46",
+                "lastUpdate": "2024-10-01 20:38:52"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Tecuala, Nayarit, Mexico",
+                "latitude": 22.14,
+                "longitude": -105.24,
+                "created": "2024-09-30 03:09:38",
+                "lastUpdate": "2024-10-01 20:38:19"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Parana Basin, Argentina and Paraguay",
+                "latitude": -27.02,
+                "longitude": -57.59,
+                "created": "2024-09-22 03:13:32",
+                "lastUpdate": "2024-10-01 20:37:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Matamoros, Tamaulipas, Mexico",
+                "latitude": 25.61,
+                "longitude": -97.47,
+                "created": "2024-09-09 20:12:00",
+                "lastUpdate": "2024-10-01 20:37:12"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Fuerte Nuevo Basin, Mexico",
+                "latitude": 25.7,
+                "longitude": -108.88,
+                "created": "2024-07-30 03:06:16",
+                "lastUpdate": "2024-10-01 20:36:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Cochabamba, Cochabamba, Bolivia",
+                "latitude": -16.61,
+                "longitude": -65.81,
+                "created": "2024-09-30 03:09:34",
+                "lastUpdate": "2024-10-01 20:36:04"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Bulungan Basin, Indonesia and Malaysia",
+                "latitude": 3.2,
+                "longitude": 117.21,
+                "created": "2024-09-24 03:13:23",
+                "lastUpdate": "2024-10-01 20:35:33"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Catatumbo Basin, Colombia and Venezuela",
+                "latitude": 10.37,
+                "longitude": -70.78,
+                "created": "2024-09-24 03:13:26",
+                "lastUpdate": "2024-10-01 20:34:59"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Orinoco Basin, Orinoco and Apure Rivers, Colombia and Venezuela",
+                "latitude": 8.24,
+                "longitude": -66.86,
+                "created": "2024-06-12 03:06:41",
+                "lastUpdate": "2024-10-01 20:34:28"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Cairns, Queensland, Australia",
+                "latitude": -18.33,
+                "longitude": 145.77,
+                "created": "2024-09-22 03:13:31",
+                "lastUpdate": "2024-10-01 20:33:53"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Exmouth, Western Australia, Australia",
+                "latitude": -22.4,
+                "longitude": 114.42,
+                "created": "2024-09-18 03:11:55",
+                "lastUpdate": "2024-10-01 20:33:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Langsa, Aceh and Sumatera Utara, Indonesia",
+                "latitude": 4.66,
+                "longitude": 97.84,
+                "created": "2024-09-24 03:13:25",
+                "lastUpdate": "2024-10-01 20:32:48"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Tennant Creek, Northern Territory, Australia",
+                "latitude": -18.9,
+                "longitude": 134.53,
+                "created": "2024-09-20 03:13:47",
+                "lastUpdate": "2024-10-01 20:32:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Indus Basin, India and Pakistan",
+                "latitude": 24.06,
+                "longitude": 68.17,
+                "created": "2024-08-17 03:11:45",
+                "lastUpdate": "2024-10-01 20:31:48"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Yancheng, East China",
+                "latitude": 33.3,
+                "longitude": 119.79,
+                "created": "2024-07-06 03:07:06",
+                "lastUpdate": "2024-10-01 20:31:12"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of Am Timan, Salamat, Chad",
+                "latitude": 10.01,
+                "longitude": 20.86,
+                "created": "2024-10-01 20:10:21",
+                "lastUpdate": "2024-10-01 20:30:34"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Yangtze Basin, Yangtze and Xiang Jiang Rivers, China",
+                "latitude": 30.05,
+                "longitude": 113.42,
+                "created": "2024-09-24 03:13:21",
+                "lastUpdate": "2024-10-01 20:30:04"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Angoche, Nampula and Zambezia, Mozambique",
+                "latitude": -18.05,
+                "longitude": 36.87,
+                "created": "2024-09-14 03:11:54",
+                "lastUpdate": "2024-10-01 20:29:30"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Red Basin, Eastern Asia, China, Hong Kong, Macao, South-eastern Asia and Vietnam",
+                "latitude": 20.31,
+                "longitude": 105.96,
+                "created": "2024-09-12 03:12:28",
+                "lastUpdate": "2024-10-01 20:28:59"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Heat - Western Mexico",
+                "latitude": 29.23249,
+                "longitude": -110.35496,
+                "created": "2024-09-05 20:25:08",
+                "lastUpdate": "2024-10-01 20:28:39"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Irrawaddy Basin, India, Myanmar and Thailand",
+                "latitude": 16.95,
+                "longitude": 94.82,
+                "created": "2024-08-07 03:11:33",
+                "lastUpdate": "2024-10-01 20:28:27"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Amur Basin, China and Mongolia",
+                "latitude": 46.93,
+                "longitude": 112.56,
+                "created": "2024-09-05 20:13:35",
+                "lastUpdate": "2024-10-01 20:27:46"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Huai He Basin, N of Huai He River, China",
+                "latitude": 33.6,
+                "longitude": 118.6,
+                "created": "2024-09-19 20:15:58",
+                "lastUpdate": "2024-10-01 20:27:13"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Ganges Basin, India and Bangladesh",
+                "latitude": 22.45,
+                "longitude": 89.51,
+                "created": "2024-08-28 20:11:53",
+                "lastUpdate": "2024-10-01 20:26:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Torghay Basin, Russia and Kazakhstan",
+                "latitude": 48.1,
+                "longitude": 62.85,
+                "created": "2024-07-28 03:04:53",
+                "lastUpdate": "2024-10-01 20:25:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Mekong Basin, South-eastern Asia, Cambodia, Laos, Thailand and Vietnam",
+                "latitude": 13,
+                "longitude": 103.66,
+                "created": "2024-09-08 03:11:05",
+                "lastUpdate": "2024-10-01 20:25:19"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Indus Basin, W of Indus River, Pakistan",
+                "latitude": 27.35,
+                "longitude": 68.23,
+                "created": "2024-08-01 03:04:52",
+                "lastUpdate": "2024-10-01 20:24:40"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Mao, Kanem, Chad",
+                "latitude": 13.93,
+                "longitude": 16.66,
+                "created": "2024-09-15 20:09:15",
+                "lastUpdate": "2024-10-01 20:23:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Meghna Basin, Eastern Asia, China, Southern Asia, India, Bangladesh and Nepal",
+                "latitude": 24.38,
+                "longitude": 91.81,
+                "created": "2024-06-22 03:06:35",
+                "lastUpdate": "2024-10-01 20:23:26"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Haikou, Hainan, China",
+                "latitude": 19.16,
+                "longitude": 109.63,
+                "created": "2024-09-30 03:09:32",
+                "lastUpdate": "2024-10-01 20:22:50"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Dasht Kaur Basin, United Arab Emirates and Oman",
+                "latitude": 24.2,
+                "longitude": 56.51,
+                "created": "2024-09-20 03:13:33",
+                "lastUpdate": "2024-10-01 20:21:40"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Chad Basin, Niger and Chad",
+                "latitude": 16.78,
+                "longitude": 15.21,
+                "created": "2024-10-01 20:10:16",
+                "lastUpdate": "2024-10-01 20:20:29"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Abadan, Khuzestan, Iran",
+                "latitude": 30.53,
+                "longitude": 49.31,
+                "created": "2024-09-18 03:11:54",
+                "lastUpdate": "2024-10-01 20:19:54"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Abadan, Khuzestan, Iran",
+                "latitude": 30.03,
+                "longitude": 48.01,
+                "created": "2024-07-14 03:09:40",
+                "lastUpdate": "2024-10-01 20:19:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Shatt Al Arab Basin, Iran, Iraq and Saudi Arabia",
+                "latitude": 30.69,
+                "longitude": 48.24,
+                "created": "2023-07-29 03:04:26",
+                "lastUpdate": "2024-10-01 20:18:51"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Jawhar, Shabeellaha Dhexe, Somalia",
+                "latitude": 3.64,
+                "longitude": 45.63,
+                "created": "2024-09-26 03:09:28",
+                "lastUpdate": "2024-10-01 20:18:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - NE of Adigrat, Tigray, Ethiopia",
+                "latitude": 14.94,
+                "longitude": 39.85,
+                "created": "2024-07-30 03:05:59",
+                "lastUpdate": "2024-10-01 20:17:43"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - W of Tuban Basin, Djibouti, Eritrea and Ethiopia",
+                "latitude": 12.99,
+                "longitude": 41.72,
+                "created": "2024-08-09 03:11:03",
+                "lastUpdate": "2024-10-01 20:17:14"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Chad Basin, Middle Africa, Central African Republic, Cameroon, Western Africa, Niger, Nigeri",
+                "latitude": 10.35,
+                "longitude": 19.16,
+                "created": "2024-07-25 20:07:30",
+                "lastUpdate": "2024-10-01 20:16:35"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Menaka, Gao, Mali",
+                "latitude": 15.29,
+                "longitude": 2.52,
+                "created": "2024-09-25 20:16:46",
+                "lastUpdate": "2024-10-01 20:15:53"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Nouadhibou, Dakhlet Nouadhibou, Mauritania",
+                "latitude": 21.01,
+                "longitude": -16.7,
+                "created": "2024-08-23 03:11:01",
+                "lastUpdate": "2024-10-01 20:15:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Faranah, Faranah, Guinea",
+                "latitude": 10.63,
+                "longitude": -9.97,
+                "created": "2024-10-01 20:10:12",
+                "lastUpdate": "2024-10-01 20:14:51"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Niger Basin, NE of Niger River, Benin, Niger and Nigeria",
+                "latitude": 13.52,
+                "longitude": 5.73,
+                "created": "2024-07-01 20:10:12",
+                "lastUpdate": "2024-10-01 20:14:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Antsiranana, Antsiranana, Mahajanga and Toamasina, Madagascar",
+                "latitude": -13.54,
+                "longitude": 48.93,
+                "created": "2024-09-14 03:11:56",
+                "lastUpdate": "2024-10-01 20:13:44"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Lamu, Lamu, Kenya",
+                "latitude": -1.94,
+                "longitude": 40.94,
+                "created": "2024-07-30 03:06:00",
+                "lastUpdate": "2024-10-01 20:13:08"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Makeni, Northern, Sierra Leone",
+                "latitude": 9.51,
+                "longitude": -12.13,
+                "created": "2024-10-01 20:08:44",
+                "lastUpdate": "2024-10-01 20:12:33"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kupiansk, Ukraine",
+                "latitude": 49.7097582,
+                "longitude": 37.6126297,
+                "created": "2024-10-01 20:06:10",
+                "lastUpdate": "2024-10-01 20:07:36"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kupiansk, Ukraine",
+                "latitude": 49.71,
+                "longitude": 37.613,
+                "created": "2024-10-01 20:03:00",
+                "lastUpdate": "2024-10-01 20:06:18"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Western Mediterranean",
+                "latitude": 36.1667,
+                "longitude": 2.75321,
+                "created": "2024-08-08 20:01:33",
+                "lastUpdate": "2024-10-01 18:52:28"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire - Portugal",
+                "latitude": 40.77247,
+                "longitude": -8.11026,
+                "created": "2024-10-01 18:43:34",
+                "lastUpdate": "2024-10-01 18:48:21"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Missile) - Tel Aviv, Israel",
+                "latitude": 32.0735802,
+                "longitude": 34.7880511,
+                "created": "2024-10-01 18:44:10",
+                "lastUpdate": "2024-10-01 18:45:37"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Missile) - Tel Aviv, Israel",
+                "latitude": 32.074,
+                "longitude": 34.788,
+                "created": "2024-10-01 18:40:00",
+                "lastUpdate": "2024-10-01 18:45:27"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Zaporizhzhia, Ukraine",
+                "latitude": 47.85167,
+                "longitude": 35.11714,
+                "created": "2024-10-01 18:18:11",
+                "lastUpdate": "2024-10-01 18:19:49"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Zaporizhzhia, Ukraine",
+                "latitude": 47.852,
+                "longitude": 35.117,
+                "created": "2024-10-01 18:16:00",
+                "lastUpdate": "2024-10-01 18:19:14"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Suwanosejima, Japan",
+                "latitude": 29.638,
+                "longitude": 129.714,
+                "created": "2024-09-24 08:16:59",
+                "lastUpdate": "2024-10-01 17:52:17"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Kindiyka, Ukraine",
+                "latitude": 46.68333,
+                "longitude": 32.7,
+                "created": "2024-10-01 17:21:10",
+                "lastUpdate": "2024-10-01 17:22:42"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Kindiyka, Ukraine",
+                "latitude": 46.683,
+                "longitude": 32.7,
+                "created": "2024-10-01 17:18:00",
+                "lastUpdate": "2024-10-01 17:21:15"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Shooting) - Jaffa, Israel",
+                "latitude": 32.05043,
+                "longitude": 34.75224,
+                "created": "2024-10-01 17:11:12",
+                "lastUpdate": "2024-10-01 17:12:29"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Shooting) - Jaffa, Israel",
+                "latitude": 32.05,
+                "longitude": 34.752,
+                "created": "2024-10-01 17:09:00",
+                "lastUpdate": "2024-10-01 17:12:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Shooting) - Jaffa, Israel",
+                "latitude": 32.05043,
+                "longitude": 34.75224,
+                "created": "2024-10-01 16:35:11",
+                "lastUpdate": "2024-10-01 16:36:31"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Shooting) - Jaffa, Israel",
+                "latitude": 32.05,
+                "longitude": 34.752,
+                "created": "2024-10-01 16:32:00",
+                "lastUpdate": "2024-10-01 16:36:19"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "ACCIDENT",
+                "name": "Accident - Bangkok, Thailand",
+                "latitude": 13.75414474,
+                "longitude": 100.50152479,
+                "created": "2024-10-01 14:48:13",
+                "lastUpdate": "2024-10-01 14:49:55"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 6.1 - 262 km ESE of Baubau, Indonesia",
+                "latitude": -5.9971,
+                "longitude": 124.9161,
+                "created": "2024-10-01 09:44:55",
+                "lastUpdate": "2024-10-01 13:45:45"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Pari, Nigeria ",
+                "latitude": 9.772,
+                "longitude": 8.546,
+                "created": "2024-10-01 13:04:00",
+                "lastUpdate": "2024-10-01 13:28:19"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Bent, Iran",
+                "latitude": 26.35056,
+                "longitude": 60.07139,
+                "created": "2024-10-01 13:05:11",
+                "lastUpdate": "2024-10-01 13:06:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Bent, Iran",
+                "latitude": 26.351,
+                "longitude": 60.071,
+                "created": "2024-10-01 12:58:00",
+                "lastUpdate": "2024-10-01 13:06:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Lashio, Myanmar",
+                "latitude": 22.964,
+                "longitude": 97.733,
+                "created": "2024-10-01 12:13:00",
+                "lastUpdate": "2024-10-01 12:21:15"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.04714678,
+                "longitude": 37.67405764,
+                "created": "2024-10-01 12:11:10",
+                "lastUpdate": "2024-10-01 12:11:53"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.047,
+                "longitude": 37.674,
+                "created": "2024-10-01 12:07:00",
+                "lastUpdate": "2024-10-01 12:11:16"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.047,
+                "longitude": 37.674,
+                "created": "2024-10-01 12:05:00",
+                "lastUpdate": "2024-10-01 12:09:15"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kherson, Ukraine",
+                "latitude": 46.6504525,
+                "longitude": 32.6081774,
+                "created": "2024-10-01 11:46:10",
+                "lastUpdate": "2024-10-01 11:47:31"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Kherson, Ukraine",
+                "latitude": 46.65,
+                "longitude": 32.608,
+                "created": "2024-10-01 11:43:00",
+                "lastUpdate": "2024-10-01 11:46:24"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Assault) - Zaporizhzhia, Ukraine",
+                "latitude": 47.8464561,
+                "longitude": 35.1492677,
+                "created": "2024-10-01 11:43:10",
+                "lastUpdate": "2024-10-01 11:44:26"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Assault) - Zaporizhzhia, Ukraine",
+                "latitude": 47.846,
+                "longitude": 35.149,
+                "created": "2024-10-01 11:41:00",
+                "lastUpdate": "2024-10-01 11:44:18"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Nzerekore, Nz\u00e9r\u00e9kor\u00e9, Guinea",
+                "latitude": 7.58,
+                "longitude": -9.56,
+                "created": "2024-10-02 20:11:31",
+                "lastUpdate": "2024-10-02 20:30:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Danube Basin, Western Europe, Austria, Southern Europe, Bosnia and Herzegovina, Croatia, Eas",
+                "latitude": 45.7,
+                "longitude": 18.3,
+                "created": "2024-10-02 20:11:29",
+                "lastUpdate": "2024-10-02 20:29:55"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - La Paz, Baja California, Baja California Sur and Sonora, Mexico",
+                "latitude": 27.28,
+                "longitude": -112.42,
+                "created": "2024-07-31 03:05:54",
+                "lastUpdate": "2024-10-02 20:29:30"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Guayaquil, Guayas, Ecuador",
+                "latitude": -2.27,
+                "longitude": -79.83,
+                "created": "2024-09-25 03:14:23",
+                "lastUpdate": "2024-10-02 20:26:27"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Bengawan Solo Basin, Indonesia",
+                "latitude": -6.68,
+                "longitude": 108.07,
+                "created": "2024-06-19 03:08:18",
+                "lastUpdate": "2024-10-02 20:26:01"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - E of Biak, Papua and Papua Barat, Indonesia",
+                "latitude": -1.71,
+                "longitude": 138.03,
+                "created": "2024-10-01 03:08:25",
+                "lastUpdate": "2024-10-02 20:25:36"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Irrawaddy Basin, India, Bangladesh and Myanmar",
+                "latitude": 20.41,
+                "longitude": 93.16,
+                "created": "2024-09-16 20:13:32",
+                "lastUpdate": "2024-10-02 20:25:11"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Niger Basin, SE of Niger River, C\u00f4te dIvoire, Guinea and Mali",
+                "latitude": 10.63,
+                "longitude": -9.97,
+                "created": "2024-10-02 20:11:17",
+                "lastUpdate": "2024-10-02 20:16:44"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - SE of EdDamer, River Nile, Sudan",
+                "latitude": 17.38,
+                "longitude": 34.44,
+                "created": "2024-09-21 03:10:33",
+                "lastUpdate": "2024-10-02 20:16:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - S of Tillaberi, Tillab\u00e9ry, Niger",
+                "latitude": 14.18,
+                "longitude": 1.45,
+                "created": "2024-09-28 20:10:52",
+                "lastUpdate": "2024-10-02 20:15:41"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - N of Gao, Gao, Mali",
+                "latitude": 17.66,
+                "longitude": 0.56,
+                "created": "2024-10-02 20:11:16",
+                "lastUpdate": "2024-10-02 20:15:15"
+            },
+            {
+                "severity": "WATCH",
+                "type": "EARTHQUAKE",
+                "name": "Earthquake - 6.6 - 187 km E of Fangale\u2019ounga, Tonga",
+                "latitude": -19.3448,
+                "longitude": -172.7124,
+                "created": "2024-10-01 20:13:43",
+                "lastUpdate": "2024-10-02 20:15:07"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Flood - Mao, Kanem, Chad",
+                "latitude": 13.97,
+                "longitude": 15.6,
+                "created": "2024-08-09 20:11:21",
+                "lastUpdate": "2024-10-02 20:14:49"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Damascus, Syria",
+                "latitude": 33.5102,
+                "longitude": 36.29128,
+                "created": "2024-10-01 11:19:11",
+                "lastUpdate": "2024-10-01 11:21:00"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Airstrike) - Damascus, Syria",
+                "latitude": 33.51,
+                "longitude": 36.291,
+                "created": "2024-10-01 11:17:00",
+                "lastUpdate": "2024-10-01 11:20:32"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Rocket Attack) - Kafr Qasim, Israel",
+                "latitude": 32.11406,
+                "longitude": 34.97624,
+                "created": "2024-10-01 11:03:10",
+                "lastUpdate": "2024-10-01 11:04:23"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "TERRORISM",
+                "name": "Terrorism (Rocket Attack) - Kafr Qasim, Israel",
+                "latitude": 32.114,
+                "longitude": 34.976,
+                "created": "2024-10-01 11:01:00",
+                "lastUpdate": "2024-10-01 11:04:22"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Counter Terrorism Operation) - Balata, West Bank",
+                "latitude": 32.20672,
+                "longitude": 35.28641,
+                "created": "2024-10-01 10:53:12",
+                "lastUpdate": "2024-10-01 10:54:20"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "COMBAT",
+                "name": "Combat (Counter Terrorism Operation) - Balata, West Bank",
+                "latitude": 32.207,
+                "longitude": 35.286,
+                "created": "2024-10-01 10:50:00",
+                "lastUpdate": "2024-10-01 10:54:16"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Shanghai, China",
+                "latitude": 31.22222,
+                "longitude": 121.45806,
+                "created": "2024-10-01 10:02:11",
+                "lastUpdate": "2024-10-01 10:04:14"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "TERRORISM",
+                "name": "Terrorism (Terror Attack) - Shanghai, China",
+                "latitude": 31.222,
+                "longitude": 121.458,
+                "created": "2024-10-01 09:55:00",
+                "lastUpdate": "2024-10-01 10:03:14"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "ACCIDENT",
+                "name": "Accident (Large Accident) - Kuz Kunar , Afghanistan",
+                "latitude": 34.559,
+                "longitude": 70.607,
+                "created": "2024-10-01 09:50:00",
+                "lastUpdate": "2024-10-01 09:57:15"
+            },
+            {
+                "severity": "WARNING",
+                "type": "VOLCANO",
+                "name": "Volcano - Santa Maria, Guatemala",
+                "latitude": 14.756,
+                "longitude": -91.552,
+                "created": "2024-09-09 14:51:41",
+                "lastUpdate": "2024-09-30 23:51:14"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Severe Weather - Guyana",
+                "latitude": 4.99724,
+                "longitude": -58.81538,
+                "created": "2024-09-12 20:22:49",
+                "lastUpdate": "2024-09-30 22:45:18"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "DROUGHT",
+                "name": "Drought - Ecuador",
+                "latitude": -1.08466,
+                "longitude": -78.3594,
+                "created": "2024-09-30 21:43:29",
+                "lastUpdate": "2024-09-30 21:46:34"
+            },
+            {
+                "severity": "WARNING",
+                "type": "SEVEREWEATHER",
+                "name": "Severe Weather - Vietnam",
+                "latitude": 21.66198,
+                "longitude": 104.89618,
+                "created": "2024-01-22 19:22:50",
+                "lastUpdate": "2024-09-30 20:13:33"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Heat - Eastern Africa",
+                "latitude": 0.10409,
+                "longitude": 31.66675,
+                "created": "2024-08-29 17:39:54",
+                "lastUpdate": "2024-09-30 20:03:09"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Heat - Antigua and Barbuda",
+                "latitude": 17.35769,
+                "longitude": -61.77487,
+                "created": "2024-09-03 20:04:28",
+                "lastUpdate": "2024-09-30 20:01:49"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Western Africa",
+                "latitude": 3.16845,
+                "longitude": 14.71385,
+                "created": "2024-07-11 18:12:58",
+                "lastUpdate": "2024-09-30 19:58:27"
+            },
+            {
+                "severity": "WARNING",
+                "type": "EXTREMETEMPERATURE",
+                "name": "Extreme Heat - Northern Africa",
+                "latitude": 25.67956,
+                "longitude": 0.49641,
+                "created": "2024-06-06 03:22:58",
+                "lastUpdate": "2024-09-30 19:57:58"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Eastern Malaysia",
+                "latitude": 2.85899,
+                "longitude": 113.28541,
+                "created": "2023-06-30 20:35:39",
+                "lastUpdate": "2024-09-30 18:01:42"
+            },
+            {
+                "severity": "WARNING",
+                "type": "STORM",
+                "name": "Storms - Peninsular Malaysia",
+                "latitude": 4.2237,
+                "longitude": 102.38494,
+                "created": "2023-06-30 20:33:13",
+                "lastUpdate": "2024-09-30 18:01:29"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Bezymianny, Russia",
+                "latitude": 55.972,
+                "longitude": 160.595,
+                "created": "2024-09-30 06:03:15",
+                "lastUpdate": "2024-09-30 17:51:20"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Southeastern United States",
+                "latitude": 39.28109,
+                "longitude": -81.57397,
+                "created": "2024-07-01 17:48:36",
+                "lastUpdate": "2024-09-30 17:01:45"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Sheveluch, Russia",
+                "latitude": 56.653,
+                "longitude": 161.36,
+                "created": "2024-09-25 07:47:20",
+                "lastUpdate": "2024-09-30 14:51:12"
+            },
+            {
+                "severity": "WATCH",
+                "type": "VOLCANO",
+                "name": "Volcano - Lewotolo, Indonesia",
+                "latitude": -8.272,
+                "longitude": 123.505,
+                "created": "2024-09-30 13:13:44",
+                "lastUpdate": "2024-09-30 13:24:04"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.04714678,
+                "longitude": 37.67405764,
+                "created": "2024-09-30 12:38:09",
+                "lastUpdate": "2024-09-30 12:39:50"
+            },
+            {
+                "severity": "WARNING",
+                "type": "COMBAT",
+                "name": "Combat (Military Operations) - Donetsk, Ukraine",
+                "latitude": 48.047,
+                "longitude": 37.674,
+                "created": "2024-09-30 12:35:00",
+                "lastUpdate": "2024-09-30 12:38:17"
+            },
+            {
+                "severity": "ADVISORY",
+                "type": "VOLCANO",
+                "name": "Volcano - Popocatepetl, Mexico",
+                "latitude": 19.023,
+                "longitude": -98.622,
+                "created": "2024-09-28 14:34:04",
+                "lastUpdate": "2024-09-29 07:41:13"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Southwestern United States ",
+                "latitude": 32.87896,
+                "longitude": -104.1753,
+                "created": "2019-11-13 21:59:16",
+                "lastUpdate": "2024-09-27 21:59:22"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Hawaii, United States of America",
+                "latitude": 20.62853,
+                "longitude": -156.3766,
+                "created": "2023-06-15 22:14:12",
+                "lastUpdate": "2024-09-27 21:57:11"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Northwestern United States",
+                "latitude": 46.73713,
+                "longitude": -115.3317,
+                "created": "2020-03-25 20:49:51",
+                "lastUpdate": "2024-09-27 20:23:17"
+            },
+            {
+                "severity": "WARNING",
+                "type": "DROUGHT",
+                "name": "Drought - Eastern Europe",
+                "latitude": 44.1947,
+                "longitude": 25.85782,
+                "created": "2024-07-26 20:52:23",
+                "lastUpdate": "2024-09-27 00:57:09"
+            },
+            {
+                "severity": "WARNING",
+                "type": "BIOMEDICAL",
+                "name": "Dengue - Guatemala",
+                "latitude": 15.35686,
+                "longitude": -90.15298,
+                "created": "2023-09-11 19:08:00",
+                "lastUpdate": "2024-09-20 20:18:34"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "CIVILUNREST",
+                "name": "Civil Unrest - Haiti",
+                "latitude": 18.49596,
+                "longitude": -72.31363,
+                "created": "2024-03-19 20:28:35",
+                "lastUpdate": "2024-09-16 19:38:26"
+            },
+            {
+                "severity": "WARNING",
+                "type": "BIOMEDICAL",
+                "name": "Cholera - Haiti",
+                "latitude": 19.13102,
+                "longitude": -72.3919,
+                "created": "2022-10-05 17:16:01",
+                "lastUpdate": "2024-08-19 20:44:13"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire (Response Support) - Lahaina, Hawaii, United States",
+                "latitude": 20.87749,
+                "longitude": -156.67736,
+                "created": "2023-08-09 17:34:41",
+                "lastUpdate": "2024-07-17 18:25:54"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "WILDFIRE",
+                "name": "Wildfire (Reponse Support) - Maui Upcountry, Hawaii, United States",
+                "latitude": 20.79062,
+                "longitude": -156.3598,
+                "created": "2023-08-09 17:59:55",
+                "lastUpdate": "2024-07-17 18:24:13"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Grnaja Penal el Porvenir - 21 de Abril - FAHUM16",
+                "latitude": 15.6948,
+                "longitude": -86.88775,
+                "created": "2016-04-26 17:03:57",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Evacuacion del Centro Penal La Ceiba - 21 de Abril - FAHUM16",
+                "latitude": 15.78772,
+                "longitude": -86.79528,
+                "created": "2016-04-26 17:01:35",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Presa Danado - 25 de Abril - FAHUM16",
+                "latitude": 15.07886,
+                "longitude": -87.5588,
+                "created": "2016-04-26 16:53:45",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Derrumbe de viviendas - 22 de Abril - FAHUM16",
+                "latitude": 15.51324,
+                "longitude": -88.02154,
+                "created": "2016-04-25 20:16:40",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "EQUIPMENT",
+                "name": "Equipos de primera respuesta - 21 de Abril - FAHUM16",
+                "latitude": 15.23119,
+                "longitude": -87.94739,
+                "created": "2016-04-25 20:05:29",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Evacuacion - 21 de Abril - FAHUM16",
+                "latitude": 15.22854,
+                "longitude": -87.95746,
+                "created": "2016-04-25 20:01:56",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "EQUIPMENT",
+                "name": "Una lancha de COPECO - FAHUM16",
+                "latitude": 15.88913,
+                "longitude": -87.78443,
+                "created": "2016-04-25 19:54:02",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "El Hospital de Roatan no cuenta con material - 19 de Abril - FAHUM16",
+                "latitude": 16.31134,
+                "longitude": -86.53749,
+                "created": "2016-04-25 19:44:55",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Creicda del rio - 21 de Abril - FAHUM16",
+                "latitude": 15.68034,
+                "longitude": -88.25775,
+                "created": "2016-04-25 19:38:30",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Colapso de muro",
+                "latitude": 15.74996,
+                "longitude": -85.72999,
+                "created": "2016-04-25 18:14:05",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Ejercicio - Incidentes en Sonaguera - FAHUM16",
+                "latitude": 15.61312,
+                "longitude": -86.27243,
+                "created": "2016-04-24 22:03:05",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Ejercicio - Inundacion - FAHUM16",
+                "latitude": 15.81472,
+                "longitude": -87.92313,
+                "created": "2016-04-24 21:44:43",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Ejercicio - Inundacion - FAHUM16",
+                "latitude": 15.74642,
+                "longitude": -86.79749,
+                "created": "2016-04-24 21:38:51",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "LANDSLIDE",
+                "name": "Deslizamiento - FAHUM16",
+                "latitude": 14.10126,
+                "longitude": -87.25443,
+                "created": "2016-04-26 17:24:00",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Puente danos - 20 de Abril - FAHUM16",
+                "latitude": 15.76725,
+                "longitude": -86.39471,
+                "created": "2016-04-26 16:31:14",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "da\u00f1os en el hospital Atl\u00e1ntida - 22 de Abril - FAHUM16",
+                "latitude": 15.78146,
+                "longitude": -86.78925,
+                "created": "2016-04-26 16:07:44",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Albergue - 22 de Abril - FAHUM16",
+                "latitude": 15.77465,
+                "longitude": -87.84668,
+                "created": "2016-04-25 20:57:23",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Muertos y damnificados - 22 de Abril - FAHUM16",
+                "latitude": 15.02925,
+                "longitude": -88.64456,
+                "created": "2016-04-25 20:42:36",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "EQUIPMENT",
+                "name": "Equipo de primera respuestas - COPECO - FAHUM16",
+                "latitude": 14.00247,
+                "longitude": -87.23649,
+                "created": "2016-04-25 20:30:52",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Inubdacion en Colonia Morales - 22 de Abril - FAHUM16",
+                "latitude": 14.0007,
+                "longitude": -87.24198,
+                "created": "2016-04-25 20:27:25",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "EQUIPMENT",
+                "name": "Unidad de Busquada y rescate - 22 de Abril - FAHUM16",
+                "latitude": 15.515,
+                "longitude": -88.01422,
+                "created": "2016-04-25 20:19:36",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Viviendas inundadas",
+                "latitude": 15.84333,
+                "longitude": -87.80089,
+                "created": "2016-04-25 19:18:04",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "EQUIPMENT",
+                "name": "Asistencia Humanitaria",
+                "latitude": 15.87681,
+                "longitude": -87.83201,
+                "created": "2016-04-25 16:31:36",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Ejercicio - Danos - FAHUM16",
+                "latitude": 15.31649,
+                "longitude": -83.59334,
+                "created": "2016-04-24 21:57:52",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "INFORMATION",
+                "type": "INCIDENT",
+                "name": "Ejercicio - personas desaparecidas - FAHUM16",
+                "latitude": 15.10217,
+                "longitude": -83.24157,
+                "created": "2016-04-24 21:52:44",
+                "lastUpdate": "2022-01-05 11:04:47"
+            },
+            {
+                "severity": "WARNING",
+                "type": "FLOOD",
+                "name": "Ejercicio - Inundacion - FAHUM16",
+                "latitude": 15.34246,
+                "longitude": -87.98676,
+                "created": "2016-04-24 21:27:58",
+                "lastUpdate": "2022-01-05 11:04:47"
+            }
+        ]
+    }
+}
