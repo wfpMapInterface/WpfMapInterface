@@ -1,16 +1,26 @@
+<<<<<<< HEAD
 name: CI Workflow
+=======
+name: Node.js CI
+>>>>>>> 10bdcc36696b849fe9fbb07940cb97ae25ff434d
 
 on:
   push:
     branches:
       - main
   pull_request:
+<<<<<<< HEAD
+=======
+    branches:
+      - main
+>>>>>>> 10bdcc36696b849fe9fbb07940cb97ae25ff434d
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+<<<<<<< HEAD
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -18,9 +28,23 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
+=======
+    - name: Checkout repository
+      uses: actions/checkout@v3  # Update from v2 to v3
 
-      - name: Install dependencies
-        run: npm install
+    - name: Setup Node.js
+      uses: actions/setup-node@v3  # Ensure to use v3 to run on Node 16
+      with:
+        node-version: '16'
+>>>>>>> 10bdcc36696b849fe9fbb07940cb97ae25ff434d
 
+    - name: Install dependencies
+      run: npm install
+
+<<<<<<< HEAD
       - name: Run tests
         run: npm test
+=======
+    - name: Run tests
+      run: npm test
+>>>>>>> 10bdcc36696b849fe9fbb07940cb97ae25ff434d
