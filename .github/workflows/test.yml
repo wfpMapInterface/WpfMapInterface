@@ -17,12 +17,10 @@ jobs:
       - name: Set up Node.js 20
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '20' # Explicitly mention Node.js 20
 
       - name: Install dependencies
         run: npm install
 
       - name: Run build
         run: npm run build
-
-
